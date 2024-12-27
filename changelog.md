@@ -6,8 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2024-12-27
 ### Added
 - 1.21.4 support which adds all the 1.21.4/Pale Garden content! (survival, lobby)
+- Speed Gear has been added to the Elite Shop (survival)
 ### Removed
 - The plugin which allowed you to repair items for higher vanilla level cost was removed as it was too buggy, leading to unexpected and inconsistent outcomes of repairs (survival)
+- Speed Crates have been removed from the Crates menu as it's been moved to the Elite Shop instead. Expect more cosmetic items in the Crates soon however :) (survival)
 
 ## Survival's Changelogs up to 2024-12-21 (this isn't pretty and it isn't even supposed to be... but it'll stay this way unless someone takes the time to make it pretty)
 
