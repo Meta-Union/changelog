@@ -3,6 +3,16 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2024-12-28
+### Added
+- You can now buy Bones in the Elite Shop. Expect more mob drops to make up for (intentionally) broken mob farms due to differently sized mobs (survival)
+### Removed
+- The plugin which allowed you to see farther. It turned out this plugin causes lag on connections with low bandwidth. (survival)
+### Fixed
+- Elite Coins were no longer accepted in the Elite Shop as the item data had changed since version 1.21.4 (that's something Mojang did). That should now be fixed (survival)
+### Changed
+- Some color adjustments to the output of commands such as '/fs <0-10>' (creative)
+
 ## 2024-12-27
 ### Added
 - 1.21.4 support which adds all the 1.21.4/Pale Garden content! (survival, lobby)
