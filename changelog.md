@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2024-12-31
+### Added
+- Unbreaking 6 has been added to the Custom Enchantments (survival)
+
 ## 2024-12-28
 ### Added
 - You can now buy Bones in the Elite Shop. Expect more mob drops to make up for (intentionally) broken mob farms due to differently sized mobs (survival)
