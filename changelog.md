@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-01
+### Added
+- You can now buy spider eyes in the Elite Shop (survival)
+- You can now buy phantom membranes in the Elite Shop
+### Removed
+- Bats no longer drop phantom membranes as they can now be bought in the Elite Shop (survival)
+
 ## 2024-12-31
 ### Added
 - Unbreaking 6 has been added to the Custom Enchantments (survival)
