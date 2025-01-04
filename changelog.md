@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-04
+### Added
+- Plugin to see plots on the online map through another plugin which doesn't seem to cause the lag the previous plugin did (creative)
+
 ## 2025-01-03
 ### Removed
 - Plugin to see plots on the online map BUT it might make a return with another plugin. The reason was that it was causing periodical lag which is now gone (creative)
