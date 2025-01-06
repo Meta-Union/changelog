@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-06
+### Fixed
+- When opening shulker boxes within your inventory while standing on redstone ore wouldn't allow you to open them. That's now possible (survival)
+
 ## 2025-01-04
 ### Added
 - Plugin to see plots on the online map through another plugin which doesn't seem to cause the lag the previous plugin did (creative)
