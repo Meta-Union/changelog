@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-08
+### Added
+- Several more map arts were added to the map art shop (survival)
+- A new Tutorial book explaining how merging towns works as it's been reason for confusion in the past (survival)
+
 ## 2025-01-07
 ### Added
 - NPCs were added near the portals which let you join servers by simply clicking on them (lobby)
