@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-07
+### Added
+- NPCs were added near the portals which let you join servers by simply clicking on them (lobby)
+- Both the portals and the NPCs now tell you that you can use '/queue \<server\>' instead so if they ever fail, which they technically can, you still have the option to type in the command which works differently than the portals or the NPCs themselves. And while I could technically make them work the same way, that poses a security risk which is why it's not done (lobby)
+### Removed
+- The "Built by..." NPCs no longer open the Menu when clicked as it seems rather unintuitive and the compass already does that (lobby)
+
 ## 2025-01-06
 ### Fixed
 - When opening shulker boxes within your inventory while standing on redstone ore wouldn't allow you to open them. That's now possible (survival)
