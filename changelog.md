@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-10
+### Changed
+- You can now optimize and un-optimize villagers much quicker, the cooldown was previously set to 10 minutes, it is now 8 seconds (survival)
+- Gunpowder and String was added to the Elite Shop (survival)
+- People can now damage each other (PvP) even within the same town also known as friendly fire (survival)
+
 ## 2025-01-08
 ### Added
 - Several more map arts were added to the map art shop (survival)
