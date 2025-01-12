@@ -3,6 +3,17 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-12
+### Fixed
+- craftFlower now shows the heads for navigation properly again (creative)
+### Added
+- craftFlower has added the new blocks such as Hanging Roots, Moss Carpet and Pale Blocks (creative)
+### Changed
+- Elites no longer spawn glowing so you'll only see their nametag behind walls. This should hopefully make them less frightening and intrusive as the glowing effect can be pretty strong and irritating. I'm just experimenting with them right now, so bear with me while we're trying to figure their visuals out properly (survival)
+- Elites are now zombies instead of creepers (survival)
+- Elites now wear an orc custom skull to visualize that they're different (survival)
+- Elites no longer have a chance of dropping their regular loot. This was mainly done as otherwise you could farm custom skulls with Elites (survival)
+
 ## 2025-01-10
 ### Changed
 - You can now optimize and un-optimize villagers much quicker, the cooldown was previously set to 10 minutes, it is now 8 seconds (survival)
