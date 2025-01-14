@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-14
+### Added
+- 2 second cooldown on messages in global chat so we won't see as bad of an outcome from spammers as we did lately. This is more of a temporary fix, something more sophisticated will follow as soon as possible (survival, lobby, creative)
+
 ## 2025-01-12
 ### Fixed
 - craftFlower now shows the heads for navigation properly again (creative)
