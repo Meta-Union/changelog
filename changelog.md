@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-01-14
 ### Added
 - 2 second cooldown on messages in global chat so we won't see as bad of an outcome from spammers as we did lately. This is more of a temporary fix, something more sophisticated will follow as soon as possible (survival, lobby, creative)
+- Builders can now use '/pw set <warp_name>' as well as '/pw remove <warp_name>' again. This was apparently forgotten as the builders server was merged into creative. Only builders have access to create, delete and warp to them, regular users do not! (creative)
 
 ## 2025-01-12
 ### Fixed
