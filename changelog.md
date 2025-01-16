@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-16
+### Added
+- Rule 10 now states that you are not allowed to build traps of any kind. Although I think it already falls under respecting other players and building traps isn't doing so because you aren't respecting their PvP status, I still feel like it helps clarify it's against the rules (all servers)
+
 ## 2025-01-14
 ### Added
 - 2 second cooldown on messages in global chat so we won't see as bad of an outcome from spammers as we did lately. This is more of a temporary fix, something more sophisticated will follow as soon as possible (survival, lobby, creative)
