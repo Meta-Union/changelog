@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-01-18
 ### Added
 - '/changescale <0.01 - 16>' lets you change your own player's scale (creative)
+### Changed
+- Downloading the server resource pack is now handled slightly differently. You'll have to change if you want to have it enabled or disabled through the Minecraft server list from now on (all servers + proxy)
 
 ## 2025-01-17
 ### Added
