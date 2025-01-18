@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-18
+### Added
+- '/changescale <0.01 - 16>' lets you change your own player's scale (creative)
+
+## 2025-01-17
+### Added
+- Added a new crate with custom skin axes (survival)
+
 ## 2025-01-16
 ### Added
 - Rule 10 now states that you are not allowed to build traps of any kind. Although I think it already falls under respecting other players and building traps isn't doing so because you aren't respecting their PvP status, I still feel like it helps clarify it's against the rules (all servers)
