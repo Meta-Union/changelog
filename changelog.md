@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-19
+### Fixed
+- You no longer stop being AFK immediately when you go AFK on a redstone ore, pressure plate or similar blocks (survival)
+### Changed
+- Slightly changed how the '/stuck' command works as there have been reports of it sometimes not giving the chorus fruit (survival)
+
 ## 2025-01-18
 ### Added
 - '/changescale <0.01 - 16>' lets you change your own player's scale (creative)
