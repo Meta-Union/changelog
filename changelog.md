@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-20
+### Changed
+- Mobs that die from suffocation no longer drop items because rescaled mobs drop their items too often and mobs like zombies pick up their loot and then can no longer despawn naturally (survival)
+
 ## 2025-01-19
 ### Fixed
 - You no longer stop being AFK immediately when you go AFK on a redstone ore, pressure plate or similar blocks (survival)
