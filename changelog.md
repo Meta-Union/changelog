@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-01-20
 ### Changed
 - Mobs that die from suffocation no longer drop items because rescaled mobs drop their items too often and mobs like zombies pick up their loot and then can no longer despawn naturally (survival)
+- The monster cap per player has been reduced from 28 to 22 which should hopefully result in less crowds of mobs near towns but still have enough mobs on the surface to be tough. This also means any monster farms have been reduced in output by roughly 20% (survival)
 
 ## 2025-01-19
 ### Fixed
