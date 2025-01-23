@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-23
+### Added
+- New, more sophisticated anti spam system which should work MUCH more efficiently against people sending messages in chat real fast (all servers)
+### Fixed
+- Items with custom model data did not give enchanting skill experience, now they do (survival)
+
 ## 2025-01-20
 ### Changed
 - Mobs that die from suffocation no longer drop items because rescaled mobs drop their items too often and mobs like zombies pick up their loot and then can no longer despawn naturally (survival)
