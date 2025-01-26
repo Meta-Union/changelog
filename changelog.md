@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-01-26
 ### Changed
 - The merge radius of items was changed to 3. This means similar items will stack from farther away once again but only if their Y level is the same. This should hopefully reduce lag for some people and it will effectively change after a server restart (survival)
+- Creative has been updated to 1.21.4 and along with it all its plugins have been, too (creative)
 
 ## 2025-01-23
 ### Added
