@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-01-26
+### Changed
+- The merge radius of items was changed to 3. This means similar items will stack from farther away once again but only if their Y level is the same. This should hopefully reduce lag for some people and it will effectively change after a server restart (survival)
+
 ## 2025-01-23
 ### Added
 - New, more sophisticated anti spam system which should work MUCH more efficiently against people sending messages in chat real fast (all servers)
