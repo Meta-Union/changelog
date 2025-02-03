@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-02-03
+### Changed
+- PvP is now globally turned on with no option to opt-out (survival)
+- The menu button to toggle PvP has been removed (survival)
+- The permission to toggle PvP with '/pvp' has been removed (survival)
+- PvP death messages are now shown globally again (survival)
+- PvP status is no longer shown next to the name above the player (survival)
+
 ## 2025-01-26
 ### Changed
 - The merge radius of items was changed to 3. This means similar items will stack from farther away once again but only if their Y level is the same. This should hopefully reduce lag for some people and it will effectively change after a server restart (survival)
