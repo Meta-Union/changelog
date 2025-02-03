@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## 2025-02-03
 ### Changed
-- PvP is now globally turned on with no option to opt-out (survival)
+- PvP is now turned on outside of towns with no option to opt-out (survival)
+- PvP is turned off inside of towns by default but can be toggled on by using '/town toggle pvp' (survival)
 - The menu button to toggle PvP has been removed (survival)
 - The permission to toggle PvP with '/pvp' has been removed (survival)
 - PvP death messages are now shown globally again (survival)
