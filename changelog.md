@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-02-15
+### Changed
+- Due to some issues with the old plugin, the server now uses a new villager optimization plugin but it functions pretty much the same (survival)
+- Villagers now only get optimized when called 'Optimize' (survival)
+- You'll have to once more rename your villagers to 'Optimize' if you want to be able to trade with them again (survival)
+### Removed
+- Villagers no longer get optimized when standing on a brick block (survival)
+
 ## 2025-02-03
 ### Changed
 - PvP is now turned on outside of towns with no option to opt-out (survival)
