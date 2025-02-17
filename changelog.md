@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-02-17
+### Changed
+- You can now change custom model data of items with '/ie custommodeldata <number>' instead of renaming it in the anvil (creative)
+### Added
+- Strength Gear has been added to the Elite Shop (survival)
+
 ## 2025-02-15
 ### Changed
 - Due to some issues with the old plugin, the server now uses a new villager optimization plugin but it functions pretty much the same (survival)
