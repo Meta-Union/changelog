@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 2025-02-22
+### Changed
+- You are now given the same "Changes You Must Know About" book when you join for the first time as the one you find in '/menu' -> Tutorials (survival)
+### Added
+- There is now a "Newbie Guide" in '/menu' -> Tutorial. This same book is also handed out to people that join for the first time. It explains all the most essential things we recommend you do on the server (survival)
+
 ## 2025-02-17
 ### Changed
 - You can now change custom model data of items with '/ie custommodeldata <number>' instead of renaming it in the anvil (creative)
