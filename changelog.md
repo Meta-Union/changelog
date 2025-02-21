@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - There is now a "Newbie Guide" in '/menu' -> Tutorial. This same book is also handed out to people that join for the first time. It explains all the most essential things we recommend you do on the server (survival)
 
+## 2025-02-21
+### Changed
+- You can no longer glide with the elytra in the overworld or the nether. It's now only possible in the end dimension (survival)
+- You can now boost an elytra with firework rockets just like in vanilla. The previous change still applies to this of course (survival)
+
 ## 2025-02-17
 ### Changed
 - You can now change custom model data of items with '/ie custommodeldata <number>' instead of renaming it in the anvil (creative)
