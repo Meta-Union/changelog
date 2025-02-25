@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-02-25
+### Changed
+- Anyone that's tagged due to PvP will be glowing during combat and stop glowing after combat (survival)
+
 ## 2025-02-23
 ### Added
 - Elites for the end dimension have been added, being called End Elites. These will take at least 3 players to be killed and spawn quite frequently alongside endermen. They also have a guaranteed chance to drop an elite coin (survival)
