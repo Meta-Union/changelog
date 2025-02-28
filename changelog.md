@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - There is now a '/pvpstats [user]' command which tracks things such as kills, deaths and PvP points (survival)
 - You now earn PvP points from killing people but you also lose them from dying in general, to more incentivise not dying constantly (survival)
 - There is now '/killrecaps' which shows a list of recent PvP kills (survival)
+- New Farming quest for sugar cane (survival)
 ### Changed
 - Technically the PvP plugin was swapped out but should function almost identical to the old one except for the previously mentioned additions (survival)
 
