@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-02-28
+### Added
+- There is now a '/pvpstats [user]' command which tracks things such as kills, deaths and PvP points (survival)
+- You now earn PvP points from killing people but you also lose them from dying in general, to more incentivise not dying constantly (survival)
+- There is now '/killrecaps' which shows a list of recent PvP kills (survival)
+### Changed
+- Technically the PvP plugin was swapped out but should function almost identical to the old one except for the previously mentioned additions (survival)
+
 ## 2025-02-25
 ### Changed
 - Anyone that's tagged due to PvP will be glowing during combat and stop glowing after combat (survival)
