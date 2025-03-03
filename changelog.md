@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-03-03
+### Fixed
+- Shops that sell or buy more than 1 item now show the proper prices in the GUI (survival)
+- Shops now update their signs again as they should (survival)
+- Decapitation used to have 5, 10 and 15% chance for their respective levels while in the GUI it said it was 33, 66 and 100%. The enchantment is now actually properly set to 33, 66 and 100% (survival)
+### Added
+- Simple Voice Chat mod support. It might take a little bit until it's rolled out for everyone connecting but after at most 24 hours it should work for anyone connecting (all servers)
+
 ## 2025-02-28
 ### Added
 - There is now a '/pvpstats [user]' command which tracks things such as kills, deaths and PvP points (survival)
