@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-03-05
 ### Changed
 - The quest to unlock hiding on the map has been removed and everyone was given the permission to use both '/map hide' and '/map show' as well as see the buttons in the menu. This was mainly done because due to PvP it's now much more important to be able to hide on the map (survival)
+### Added
+- Elite Fishing. That means you'll now have a chance to earn Elite Coins when you're fishing with someone else nearby, up to 4 players in total where the chance also increases the more players you are! (survival)
 
 ## 2025-03-03
 ### Fixed
