@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - The quest to unlock chest shops has been removed and everyone was given the permission to create up to 100 as that's the maximum. This was mainly done because people often got confused how to unlock chest shops and they had forgotten about quests at all at that point (survival)
 - The tutorial book on chest shops was updated (survival)
+- The quest to unlock custom enchantments has been removed and everyone was given the permission to see and open the custom enchantments button in '/menu' (survival)
 
 ## 2025-03-05
 ### Changed
