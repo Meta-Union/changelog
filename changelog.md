@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-03-09
 ### Added
 - Curse of Masking has been added to the Custom Enchantments. It'll add Curse of Binding and Curse of Vanishing to any player head (survival)
+### Changed
+- Crates are now unlocked after 25 hours instead of requiring 25,000 MetaCoins in your '/bal'. Only really active players were likely to reach the 25k and even some of those would deposit their money into the town and thus never unlocking crates. The new requirement of 25 hours makes it possible for anyone to unlock them while not having to specifically aim for it (survival)
 
 ## 2025-03-09
 ### Changed
