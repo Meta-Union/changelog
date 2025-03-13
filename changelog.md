@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-03-13
+### Added
+- You now earn extra money when near other players. For now it's an extra 15% of income when there are 2 or more players within 64 blocks. Any AFK players are not taken into the equation at all. (survival)
+- Rule 11 now clearly states that you're not allowed to use alts to earn extra resources, coins or anything similar (all servers)
+### Changed
+- The salary message now only states that you earned money, not how much as with the new system it can get confusing for players to see earning more or less with no clear indication as to why (survival)
+
 ## 2025-03-12
 ### Changed
 - Pretty much all quests that used to be related to skills have been changed. They no longer reward skill exp as that throws off the balance of which tasks for certain skills are most beneficial. Also some of the quest categories have been reworked (survival)
