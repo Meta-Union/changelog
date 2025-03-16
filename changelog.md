@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - MobTrak can now be obtained from killing mobs. These items act like the FishTrak but they track how many mobs you've killed with the weapon. The current chance to get one is 1 in 1,000 but this number is affected by your luck stat and the chance might vary over time (survival)
 - BlockTrak can now be obtained from Mining, Excavating or Farming. BlockTrak tracks how many mobs you've killed with a weapon. I won't mention the chances cause they're different for each skill and might also be changed over time (survival)
+- StatTrak can now be bought in the Others category of the Elite Shop for 16 Elite Coins (survival)
 
 ## 2025-03-13
 ### Added
