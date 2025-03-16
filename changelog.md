@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-03-16
+### Added
+- MobTrak can now be obtained from killing mobs. These items act like the FishTrak but they track how many mobs you've killed with the weapon. The current chance to get one is 1 in 1,000 but this number is affected by your luck stat and the chance might vary over time (survival)
+- BlockTrak can now be obtained from Mining, Excavating or Farming. BlockTrak tracks how many mobs you've killed with a weapon. I won't mention the chances cause they're different for each skill and might also be changed over time (survival)
+
 ## 2025-03-13
 ### Added
 - You now earn extra money when near other players. For now it's an extra 15% of income when there are 2 or more players within 64 blocks. Any AFK players are not taken into the equation at all. (survival)
