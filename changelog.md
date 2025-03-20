@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-03-20
+### Changed
+- The economy plugin was changed but all the money was migrated to the new one so nothing was lost. Currently you have to use commands that start with '/money' such as '/money pay <user> <amount>' to pay someone but on the next restart '/pay' and '/bal' and the likes will be back (survival, creative)
+
 ## 2025-03-16
 ### Added
 - MobTrak can now be obtained from killing mobs. These items act like the FishTrak but they track how many mobs you've killed with the weapon. The current chance to get one is 1 in 1,000 but this number is affected by your luck stat and the chance might vary over time (survival)
