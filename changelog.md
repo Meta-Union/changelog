@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## 2025-03-22
 ### Changed
+- The menu and all sub-menues provided by Meta-Union have received a facelift. Other servers will follow :) (creative)
 - Please make sure to read '/rules' again. Rule 12 was added, some of the clarifications were changed and added onto and some rules slightly rewritten! (all servers)
 - The '/rules' menu has gotten a new look, you might want to check it out (all servers)
 
