@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-03-22
+### Changed
+- Please make sure to read '/rules' again. Rule 12 was added, some of the clarifications were changed and added onto and some rules slightly rewritten! (all servers)
+- The '/rules' menu has gotten a new look, you might want to check it out (all servers)
+
 ## 2025-03-20
 ### Changed
 - The economy plugin was changed but all the money was migrated to the new one so nothing was lost. Currently you have to use commands that start with '/money' such as '/money pay <user> <amount>' to pay someone but on the next restart '/pay' and '/bal' and the likes will be back (survival, creative)
