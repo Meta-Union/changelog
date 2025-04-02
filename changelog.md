@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-04-02
+### Changed
+- Newly spawned mobs should no longer burn in sunlight (creative)
+- Newly spawned ghasts can be killed again (creative)
+
 ## 2025-03-30
 ### Added
 - You can now see everyone on all servers in the tab list (except lobby2 and test servers). It still needs some final touches but the feature generally works and you can finally see at a glance who's online again! (all servers)
