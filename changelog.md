@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-04-04
+### Added
+- Elite Cookies can now be bought in '/menu' -> Elites for 5k MetaCoins. These cookies spawn an Elite where you stand and currently there are 3 levels. Expect more in the future! (survival)
+
 ## 2025-04-02
 ### Changed
 - Newly spawned mobs should no longer burn in sunlight (creative)
