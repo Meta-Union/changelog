@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-04-08
 ### Added
 - Plushy Crate has been added for only 1k MetaCoins! (survival)
+### Changed
+- Newly obtained plushies can now be worn on your head (survival)
 
 ## 2025-04-04
 ### Added
