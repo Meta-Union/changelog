@@ -6,8 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-04-13
 ### Changed
 - The Strike enchantment no longer deals damage to players, mobs or blocks nearby (survival)
+- You now have to put custom enchantments on items through the anvil, just like in vanilla (survival)
 ### Removed
 - The Strike enchantment was removed from the menu so it can no longer be obtained (survival)
+- Curse of Masking had to be removed as you could otherwise enchant a stack of player heads with just one book. Hopefully we'll find a replacement at some point (survival)
 
 ## 2025-04-08
 ### Added
