@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Votes now have a 10% chance to pay 2,000 MetaCoins (survival)
 ### Removed
 - Quests no longer increases how much money you earn from voting and any previously gained advantage is obsolete (survival)
+- Quests no longer grant 2,000 MetaCoins for things like sprinting, farming, chopping trees and so on. It simply felt like favoring certain activities while others weren't and if I wanted to keep it balanced, I would have needed to add an infinite amount of quests which would have to be expanded on every update (survival)
 
 ## 2025-04-18
 ### Added
