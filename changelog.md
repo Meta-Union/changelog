@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-04-20
+### Added
+- Votes now have a 10% chance to pay 4,000 MetaCoins (creative)
+- Votes now have a 10% chance to pay 2,000 MetaCoins (survival)
+### Removed
+- Quests no longer increases how much money you earn from voting and any previously gained advantage is obsolete (survival)
+
 ## 2025-04-18
 ### Added
 - 3 more levels of Elites, up to level 9 now (survival)
