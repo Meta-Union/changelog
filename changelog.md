@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-04-23
+### Changed
+- PvP can now be toggled again with '/togglepvp'. PvP is turned on by default (survival)
+- Technically we're using a different PvP plugin again (survival)
+- The PvP status now ignores the PvP setting of a town or rather, technically speaking, towns have PvP force on but if you toggle it off, that'll override the forced on PvP of a town (survival)
+### Removed
+- '/killstats' is no longer a command as it was a feature of the old plugin which we swapped out (survival)
+
 ## 2025-04-20
 ### Added
 - Votes now have a 10% chance to pay 4,000 MetaCoins (creative)
