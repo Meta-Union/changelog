@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-05-10
 ### Added
 - New system has been installed to prevent crash items, force OP signs and similar illegal items. If you find any (legitimate) issues with this system, please let me know (creative)
+### Changed
+- A different plugin to visualize WorldEdit selections as the old one was not open source but the new one is! \o/ (creative)
 
 ## 2025-05-03
 ### Changed
