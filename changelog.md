@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-05-10
+### Added
+- New system has been installed to prevent crash items, force OP signs and similar illegal items. If you find any (legitimate) issues with this system, please let me know (creative)
+
 ## 2025-05-03
 ### Changed
 - The elytras with higher durability were swapped out for custom enchantments that only work on elytras. That makes it possible to also have longer lasting elytras with custom skins (survival)
