@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-05-13
+### Fixed
+- You could previously buy crates with a full inventory which lead to you paying money and the crate telling you you can't open it with a full inventory. That's now been fixed and you're required to have an empty inventory slot before the crate even opens (survival)
+### Changed
+- The Diamond Sword Crate 1 has been changed. You now have to pay one unchanged, unenchanted diamond sword and 1,000 MetaCoins to get a diamond sword with a skin. This change will eventually be done to all the crates except plushies (survival)
+
 ## 2025-05-10
 ### Added
 - New system has been installed to prevent crash items, force OP signs and similar illegal items. If you find any (legitimate) issues with this system, please let me know (creative)
