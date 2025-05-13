@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - You could previously buy crates with a full inventory which lead to you paying money and the crate telling you you can't open it with a full inventory. That's now been fixed and you're required to have an empty inventory slot before the crate even opens (survival)
 ### Changed
 - The Diamond Sword Crate 1 has been changed. You now have to pay one unchanged, unenchanted diamond sword and 1,000 MetaCoins to get a diamond sword with a skin. This change will eventually be done to all the crates except plushies (survival)
+### Added
+- New WorldEdit visualizer with particles which is (according to me) better than the old one. We also decided it needs new particles which have been chosen by the community (creative)
 
 ## 2025-05-10
 ### Added
