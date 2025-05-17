@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-05-17
 ### Changed
 - Server was updated to 1.21.5 (creative)
+- Skulls are working again (survival)
+- You can no longer hide on the online map (survival)
 
 ## 2025-05-15
 ### Changed
