@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-05-17
+### Changed
+- Server was updated to 1.21.5 (creative)
+
 ## 2025-05-15
 ### Changed
 - You can no longer combine two Unbreaking 4 custom enchantment books to make an Unbreaking 5 custom enchantment book in an anvil. This was never intended to happen and was only made possible due to me allowing the use of anvils to add enchantments to items but it was never meant to be used to improve the enchantment's level itself. The same goes for any other Unbreaking custom enchantment book (survival)
