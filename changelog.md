@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-05-23
+### Added
+- Chest Shops are back!! (survival)
+- Fancy Diamond Sword Crate has been added which I have asked about in a Discord poll before (survival)
+- The Elytra crate can be bought with a dragon head again, additionally to the one you can buy for an Elytra (survival)
+
 ## 2025-05-18
 ### Changed
 - If you use '/ah' outside a shop plot now, you'll get a book opened that explains how it works. The previous message in chat wasn't quite enough to really make everyone understand how auction houses work (survival)
