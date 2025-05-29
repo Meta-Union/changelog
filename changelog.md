@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-05-29
+### Changed
+- Elite Cookies now only cost 2,500 MetaCoins instead of 5,000 MetaCoins. They seemed a little expensive currently, making most people prefer fishing over the Elites (survival)
+
 ## 2025-05-25
 ### Fixed
 - If you had a potion effect applied that was longer than vanilla default, it was removed when disconnecting or going to the hub. That is no longer the case now and was actually never meant to be the case. Sorry for any inconvenience this may have caused (survival)
