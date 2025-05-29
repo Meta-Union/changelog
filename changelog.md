@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-05-29
 ### Changed
 - Elite Cookies now only cost 2,500 MetaCoins instead of 5,000 MetaCoins. They seemed a little expensive currently, making most people prefer fishing over the Elites (survival)
+- You can now use the auction house from any chunk of a town, not just the shop plot (survival)
 
 ## 2025-05-25
 ### Fixed
