@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-05-31
 ### Changed
 - '/vote' now looks slightly different and uses the Meta-Union default color scheme. It also now explains a little more what voting really does for Meta-Union <3 (lobby, creative, survival)
+- The Steed Speed quest now grants mobs you mount a 10 minute speed 2 effect. The effect also ends when you dismount. This was changed because the quest was added when elytras were still banned, so getting around faster was rather unique but now I thought I should do horses etc justice by boosting them even outside of paths (survival)
 
 ## 2025-05-29
 ### Changed
