@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-06-01
+### Added
+- Collectible Cards Crate 1. It contains almost 100 collectible cards! (survival)
+
 ## 2025-05-31
 ### Changed
 - '/vote' now looks slightly different and uses the Meta-Union default color scheme. It also now explains a little more what voting really does for Meta-Union <3 (lobby, creative, survival)
