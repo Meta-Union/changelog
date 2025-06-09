@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-06-09
+### Changed
+- Sniffer sizes now only range from 1.3 to 0.5 as opposed to the previous 2.0 to 0.5. This change had to be made as bigger size sniffers can't breed due to a Mojang/Minecraft bug: <https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-298644>. This will be reverted whenever Mojang fixes said issue (survival)
+
 ## 2025-06-06
 ### Changed
 - Fishing rods with custom models/skins will now have increased durability shown in the lore which is based on the quality (survival)
