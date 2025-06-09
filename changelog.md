@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-06-09
 ### Changed
 - Sniffer sizes now only range from 1.3 to 0.5 as opposed to the previous 2.0 to 0.5. This change had to be made as bigger size sniffers can't breed due to a Mojang/Minecraft bug: <https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-298644>. This will be reverted whenever Mojang fixes said issue (survival)
+### Added
+- More items with custom models have been added through various means, mostly skill related (survival)
 
 ## 2025-06-06
 ### Changed
