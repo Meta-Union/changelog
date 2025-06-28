@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-06-28
+### Fixed
+- Debug sticks would often complain about being an illegal item, that should now be fixed (creative)
+
 ## 2025-06-11
 ### Fixed
 - Found out that regular users couldn't actually open crates as the permissions were bound to a role but said role was only obtained by doing a quest which was removed some time ago... sorry about that, crates should now be available to anyone! (survival)
