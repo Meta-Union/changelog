@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-06-30
+### Removed
+- Title message that's shown every 6 minutes if you haven't voted within the last 24 hours was removed as its effects are questionable and we hopefully have a new incentive to get people to vote. It's still greatly appreciate every time you vote <3 (creative)
+### Changed
+- The old plugin that shows virtual books like in the Tutorial menu was removed as it's been replaced with something else (creative, survival)
+
 ## 2025-06-28
 ### Fixed
 - Debug sticks would often complain about being an illegal item, that should now be fixed (creative)
