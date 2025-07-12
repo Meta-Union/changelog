@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-07-12
+### Removed
+- Plots in creative are no longer shown on the online map, it was causing quite a lot of lag unfortunately (creative)
+
 ## 2025-07-10
 ### Changed
 - Updated server to 1.21.7 - wooh, doggo painting!! :D (lobby, creative, survival)
