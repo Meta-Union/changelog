@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-07-19
+### Changed
+- Stone now has a chance of spawning a silverfish instead of a baby zombie (extreme)
+### Added
+- Silverfish drop 1 iron nugget when killed (extreme)
+
 ## 2025-07-18
 ### Changed
 - Infinite water sources have been disabled (extreme)
