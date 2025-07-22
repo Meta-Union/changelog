@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-07-22
+### Changed
+- Graves plugin was swapped out as the old one had bugs and was no longer maintained (survival)
+- Graves no longer require 50 MetaCoins to open, they're now free (survival)
+- Graves spawn in towns now but they can't really be weaponized as they're free to open, a person has a max of 8 graves at one point and you can't collide with them, so it should be alright (survival)
+- Most of the other features of graves stay the same (survival)
+
 ## 2025-07-19
 ### Changed
 - Stone now has a chance of spawning a silverfish instead of a baby zombie (extreme)
