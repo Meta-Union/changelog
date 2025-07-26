@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-07-26
 ### Changed
 - Armor Trims are now an allowed NBT compound (creative)
+- Boss kills needed for TSMs previously were "Warden, Elder Guardian, Wither, Ender Dragon" and have now been changed to "Elder Guardian, Ender Dragon, Wither, Warden" in that order. This was mainly done to reflect the difficulty of each mob (survival)
 
 ## 2025-07-24
 ### Changed
