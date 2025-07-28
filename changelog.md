@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## 2025-07-28
 ### Added
-- '/locatorbar color <hex code>' to set the color of your locator bar icon (survival, creative)
+- '/locatorbar color \<hex code\>' to set the color of your locator bar icon (survival, creative)
 - '/locatorbar color reset' to reset the color of your locator bar icon (survival, creative)
 
 ## 2025-07-26
