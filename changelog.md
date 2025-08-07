@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-08-07
+### Added
+- New Tutorial book called "Plot Commands" to explain different plot commands like '/plot visit ...' and some more. This should help the people that want to visit other plots or want to get back to their own plots (creative)
+
 ## 2025-07-28
 ### Added
 - '/locatorbar color \<hex code\>' to set the color of your locator bar icon (survival, creative)
