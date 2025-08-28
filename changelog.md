@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-08-28
 ### Changed
 - TSMs are now called PSMs as TSM stood for Toggleable Skill Multiplier and now they're Permanent Skill Multipliers. This will make the whole system simpler as they'll be always active and also they no longer cost a bit of your salary (survival)
+- You now get 2 stacks of gunpowder instead of 1 for 1 Elite Coin (survival)
 
 ## 2025-08-07
 ### Added
