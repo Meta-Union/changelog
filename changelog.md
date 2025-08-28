@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-08-28
+### Changed
+- TSMs are now called PSMs as TSM stood for Toggleable Skill Multiplier and now they're Permanent Skill Multipliers. This will make the whole system simpler as they'll be always active and also they no longer cost a bit of your salary (survival)
+
 ## 2025-08-07
 ### Added
 - New Tutorial book called "Plot Commands" to explain different plot commands like '/plot visit ...' and some more. This should help the people that want to visit other plots or want to get back to their own plots (creative)
