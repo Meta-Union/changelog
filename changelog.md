@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-08-30
+### Removed
+- The bidding functionality of the auction house was removed as it wasn't used much and I'm afraid it might lead to confusion of how it works (survival)
+### Changed
+- The bottom right book of the auction house now explains how to use '/ah sell \<price\>' instead of being rather vague about it (survival)
+
 ## 2025-08-29
 ### Fixed
 - The NPCs Diamond_Sam, LenaTheEevee and an_normal_human for some reason had lost their skins a while ago and I wasn't able to fix it. Today I managed to fix this (by simply using their UUID in the command instead of the name which I wouldn't expect to make a difference but apparently it does) (survival)
