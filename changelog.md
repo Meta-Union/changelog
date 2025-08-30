@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - The bidding functionality of the auction house was removed as it wasn't used much and I'm afraid it might lead to confusion of how it works (survival)
 ### Changed
 - The bottom right book of the auction house now explains how to use '/ah sell \<price\>' instead of being rather vague about it (survival)
+### Added
+- You can now either use '/togglelocatorbar' or go into the '/menu' -> World Related and toggle it from there (survival)
+- You can now also toggle if you're hidden or shown on the online map again (survival)
 
 ## 2025-08-29
 ### Fixed
