@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-08-31
 ### Changed
 - Elytra Unbreaking enchantments can now be bought in '/menu' -> Custom Enchantments instead of '/menu' -> Elite -> Custom Enchantments. It seemed a little disconnedted and confusing that way. I hope this won't be an inconvenience to anyone (survival)
+- Elytra Unbreaking enchantments have been lowered to level 12, 24 and 48 to actually double the durability of the elytra. Also level 70 seemed a little too strong in terms of how long it makes your elytra last. This could still be subject to change but at least for a little while I'd like to try these numbers. Elytras with existing Unbreaking 70 will stay that way and not lower their enchantment level! (survival)
 ### Added
 - Fancy Diamond Sword Crate 2 has been released and it costs 1 MetaCoin and 1 Diamond Sword to open (survival)
 
