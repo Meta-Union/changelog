@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-08-31
+### Changed
+- Elytra Unbreaking enchantments can now be bought in '/menu' -> Custom Enchantments instead of '/menu' -> Elite -> Custom Enchantments. It seemed a little disconnedted and confusing that way. I hope this won't be an inconvenience to anyone (survival)
+
 ## 2025-08-30
 ### Removed
 - The bidding functionality of the auction house was removed as it wasn't used much and I'm afraid it might lead to confusion of how it works (survival)
