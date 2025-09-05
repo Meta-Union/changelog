@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-09-05
+### Changed
+- Totem of Undying and Phantom Spawn Eggs can now be obtained from the Server Shop instead of quests. It seems much more logical that way (survival)
+- The Dragon Egg quest was moved to the More Content category as it was the only quest left in the Vanilla Content category, so there wasn't much reason for a category to exist just for one quest (survival)
+- Menues like Custom Enchantments, Crates, Resources, Spawn Eggs, Others and Skulls were all put into one menu button which is now called "Server Shop" as all the former mentioned menu buttons are basically just a server shop in a different fasion (survival)
+- The Elites button now directly leads to the Elite Cookies menu as all the other ones were moved to the Server Shop (survival)
+
 ## 2025-09-01
 ### Changed
 - Some internal changes to how the welcome message of new players is handled (lobby)
