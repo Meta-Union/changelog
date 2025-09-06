@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-09-06
+### Changed
+- Creating a outpost for a town now costs 24,000 while it previously costed 50,000 (survival)
+- Merging towns now costs 12,000 while it previously costed 25,000 (survival)
+
 ## 2025-09-05
 ### Changed
 - Totem of Undying and Phantom Spawn Eggs can now be obtained from the Server Shop instead of quests. It seems much more logical that way (survival)
