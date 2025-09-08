@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-09-08
+### Changed
+- Treecapitator and Speed Mine abilities have been doubled in how long they last. Some people that shall remain unnamed complained that it didn't feel like it lasted very long :P (survival)
+
 ## 2025-09-07
 ### Added
 - Added the first challenge which is to smelt all ores. This could mark the start of a cool new system which will be challenges but it might as well just be scrapped eventually as it doesn't catch on or whatever other reason... only time will tell :> (survival)
