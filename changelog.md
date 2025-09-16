@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-09-16
 ### Added
 - Elite Gear was added to the Server Shop which currently allows you to buy armor which gives extra strength stat points. More gear might follow in the future but only on demand, so it won't be added without anyone asking (survival)
+### Changed
+- The spawn has gotten a little overhaul to hopefully make things even easier for new players, especially the ones that do not want to read an entire tutorial before playing (survival)
 
 ## 2025-09-14
 ### Added
