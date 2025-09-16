@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-09-16
+### Added
+- Elite Gear was added to the Server Shop which currently allows you to buy armor which gives extra strength stat points. More gear might follow in the future but only on demand, so it won't be added without anyone asking (survival)
+
 ## 2025-09-14
 ### Added
 - New quest which allows you to earn Elite Cookies Lv. 1 if you're near other players. The system is still subject to change as it's obviously quite new still. This is meant to encourage more activities together other than just fishing (survival)
