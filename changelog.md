@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - Elites now give Elite Coins to everyone who was involved in a fight although there is a limit which is the elite's level + 3, so a level 5 Elite could give a reward to a maximum of 8 people (survival)
 - Elites can no longer be killed as easily with a mace (survival)
+- Non-hostile mobs were removed from Elites and a replacement with hostile mobs was added so Elites can be fought within towns more easily (survival)
 
 ## 2025-09-16
 ### Added
