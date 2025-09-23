@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-09-23
+### Added
+- Elite Gear for Speed, Regeneration, Wisdom, Health and Luck were added. I won't be adding Toughness as in my opinion it's no different than extra Health, same goes for Crit Damage and Crit Chance only for Strength, so that also won't become a thing (survival)
+
 ## 2025-09-20
 ### Changed
 - Elites now give Elite Coins to everyone who was involved in a fight although there is a limit which is the elite's level + 3, so a level 5 Elite could give a reward to a maximum of 8 people (survival)
