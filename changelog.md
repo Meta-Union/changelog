@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-09-23
 ### Added
 - Elite Gear for Speed, Regeneration, Wisdom, Health and Luck were added. I won't be adding Toughness as in my opinion it's no different than extra Health, same goes for Crit Damage and Crit Chance only for Strength, so that also won't become a thing (survival)
+### Changed
+- The Recovery Compass is back as a few people have told me that they're missing it as it made it super easy to quickly join the server of your liking. Now the "Build by ..." NPCs tell you to use the other NPCs instead if you want to play (lobby)
 
 ## 2025-09-20
 ### Changed
