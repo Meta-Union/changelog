@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-10-03
 ### Changed
 - PvP plugin has been updated to a new major version bringing a better timer which tells you how long you're in combat still and a better internal way of handling placeholders (this is only relevant for Folas xD). If you notice anything weird about it, let me know (survival)
+- Having PvP turned on now grants an extra 70 MetaCoins every 6 minutes (survival)
 
 ## 2025-09-24
 ### Changed
