@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-03
+### Changed
+- PvP plugin has been updated to a new major version bringing a better timer which tells you how long you're in combat still and a better internal way of handling placeholders (this is only relevant for Folas xD). If you notice anything weird about it, let me know (survival)
+
 ## 2025-09-24
 ### Changed
 - Some commands now work different internally but nothing should have changed function wise (lobby, creative, survival)
