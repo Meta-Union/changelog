@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-05
+### Fixed
+- Fixed a bug which prevented some auctions in the auction house to work (survival)
+- Fixed a bug which made spectator mode not work properly (survival)
+### Changed
+- Ender Pearls will no longer load chunks even though this is vanilla behavior. The main reason is because it conflicts with the idea of Meta-Union which is that "real work" should be rewarded and not being AFK and also rules which prevent gaining resources while AFK which would be circumvented by ender pearls loading chunks (survival)
+
 ## 2025-10-03
 ### Changed
 - PvP plugin has been updated to a new major version bringing a better timer which tells you how long you're in combat still and a better internal way of handling placeholders (this is only relevant for Folas xD). If you notice anything weird about it, let me know (survival)
