@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-12
+### Changed
+- Server updated to run 1.21.10 (survival)
+- Elite Coins are more common again (survival)
+
 ## 2025-10-10
 ### Changed
 - Due to how Bedrock Edition handles the Haste effect differently from Java Edition, we changed the Speed Mine ability to give haste level 15 instead of 10 as level 10 was causing issues. Quite certainly related to <https://github.com/GeyserMC/Geyser/issues/3987> (survival)
