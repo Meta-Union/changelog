@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-13
+### Added
+- 60 second spawn protection after you have been killed is now applied as it was deemed unfair that people can spawn camp you (survival)
+
 ## 2025-10-12
 ### Changed
 - Server updated to run 1.21.10 (survival)
