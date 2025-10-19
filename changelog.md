@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-10-19
 ### Changed
 - You previously did not lose hunger while you were in your own town which was not intended to be the case. Now you do lose hunger while you're in your own town (survival)
+- Right clicking with a custom enchanted book no longer shows the description text (survival)
+- Custom enchanted books look different now, being called Custom Enchanted Book with an aqua name to be closer to vanilla's style and also only mentioning the enchantment name, just like vanilla has it (survival)
 ### Removed
 - The following Mana Abilities were disabled: Sharp Hook, Charged Shot, Absorption and Lightning Blade. Instead of Charged Shot the ability Bow Master was improved to give the same boost in damage. The others we think were not used enough or had a big enough impact to warrant a replacement (survival)
 
