@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-10-20
 ### Changed
 - As mentioned in the removed logs, Exacation Luck was increased by a factor of 4 to make up for the removed mana ability called Terraform (survival)
+- You now earn 2x as much excavation skill experience and it only requires 50% of excavation skill experience to level up a skill. If you break any excavation block and level up a lot suddenly, this is why. The reason for this was because the Terraform mana skill was removed which was a big excavation skill experience boost overall (survival)
 ### Removed
 - The mana ability called Terraform from the excavation skill was removed as it caused too many issues as described in <https://github.com/Meta-Union/Meta-Union/issues/145>. As compensation you now get more Excavation Luck, meaning more blocks which count for the excavation skill (survival)
 
