@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-20
+### Changed
+- As mentioned in the removed logs, Exacation Luck was increased by a factor of 4 to make up for the removed mana ability called Terraform (survival)
+### Removed
+- The mana ability called Terraform from the excavation skill was removed as it caused too many issues as described in <https://github.com/Meta-Union/Meta-Union/issues/145>. As compensation you now get more Excavation Luck, meaning more blocks which count for the excavation skill (survival)
+
 ## 2025-10-19
 ### Changed
 - You previously did not lose hunger while you were in your own town which was not intended to be the case. Now you do lose hunger while you're in your own town (survival)
