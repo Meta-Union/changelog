@@ -4,6 +4,8 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
 ## 2025-10-22
+### Removed
+- The Mana Ability Treecapitator needed to be disabled. I thought I could wait until people migrated to the Timber enchantment but as it turns out you can combine Timber with Treecapitator and destroy **huge masses** of trees which was not intended to happen. As I don't have any other alternatives however and I want to move away from Mana Abilities, this change had to be done, sorry people :yellow_heart: (survival)
 ### Fixed
 - You might know about the Anvil Discount thing which the Wisdom skill stat is meant to apply. While that was applied to low repair costs, it was not applied to high repair costs. The problem is that Minecraft by default does not allow you to repair items beyond a certain point, hence the "Too Expensive" but for some reason this lead to a situation where the skill plugin **meant** to lower the required vanilla levels **but** it couldn't be shown as Minecraft thought it was too expensive. Now I have installed a plugin however which fixes those issues and technically lets you repair past level 40. You will see "Too Expensive" past level 40 unless you have a mod which shows you the level anyway but if it shows an output, you simply need enough levels to repair it. In short: If you had items which you couldn't repair previously, now's a good time to try again :smile: (survival)
 
