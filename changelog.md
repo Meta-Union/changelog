@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-23
+### Added
+- You can now buy 10,000 Vanilla Experience for 1 Elite Coin in the Server Shop (survival)
+
 ## 2025-10-22
 ### Removed
 - The Mana Ability Treecapitator needed to be disabled. I thought I could wait until people migrated to the Timber enchantment but as it turns out you can combine Timber with Treecapitator and destroy **huge masses** of trees which was not intended to happen. As I don't have any other alternatives however and I want to move away from Mana Abilities, this change had to be done, sorry people :yellow_heart: (survival)
