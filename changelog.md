@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-10-23
 ### Added
 - You can now buy 10,000 Vanilla Experience for 1 Elite Coin in the Server Shop (survival)
+### Changed
+- Elites are now bigger the higher their level (survival)
 
 ## 2025-10-22
 ### Removed
