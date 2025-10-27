@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-10-27
 ### Changed
 - The online map now shows the town board when clicking on a town (survival)
+- Custom Efficiency can now be combined up to level 12 which insta-breaks pretty much everything at deepslate level. Level 9 breaks deepslate but not deepslate ores for example (survival)
 
 ## 2025-10-24
 ### Changed
