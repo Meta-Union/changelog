@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-10-31
+### Changed
+- Looting 4 now costs 40 levels and can be combined in an anvil up to Looting 12 (survival)
+
 ## 2025-10-27
 ### Changed
 - The online map now shows the town board when clicking on a town (survival)
