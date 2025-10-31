@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-10-31
 ### Changed
 - Looting 4 now costs 40 levels and can be combined in an anvil up to Looting 12 (survival)
+- Timber 1 is now the only Timber level you can obtain and then you have to combine it in an anvil for higher levels (survival) 
 
 ## 2025-10-27
 ### Changed
