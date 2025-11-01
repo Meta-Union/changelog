@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-11-01
+### Fixed
+- Fixed custom enchantments not working for Bedrock Edition at all. This is because Bedrock Edition controls enchantments client-side and not server-side which means Geyser has no way to send custom enchantments to Bedrock Edition clients, however there is a nifty little plugin which works around this (survival)
+
 ## 2025-10-31
 ### Changed
 - Looting 4 now costs 40 levels and can be combined in an anvil up to Looting 12 (survival)
