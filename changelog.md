@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - Regular players now earn 450 MetaCoins every 6 minutes and builders earn 900 MetaCoins every 6 minutes. This was mainly done as builds can be done within 2 hours and we wanted to allow people to more easily claim more plots (creative)
 - Voting now rewards 900 MetaCoins and a lucky vote even gets you 7,000 MetaCoins. Once again to more easily get new plots so you can build even bigger things (creative)
+- Mobs now get their movement and flying speed set to 0 so they can't fly or walk around. Without this, happy ghasts could be controlled onto other plots where they would get stuck (creative)
 
 ## 2025-11-01
 ### Fixed
