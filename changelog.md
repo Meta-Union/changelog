@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-11-02
+### Changed
+- Regular players now earn 450 MetaCoins every 6 minutes and builders earn 900 MetaCoins every 6 minutes. This was mainly done as builds can be done within 2 hours and we wanted to allow people to more easily claim more plots (creative)
+- Voting now rewards 900 MetaCoins and a lucky vote even gets you 7,000 MetaCoins. Once again to more easily get new plots so you can build even bigger things (creative)
+
 ## 2025-11-01
 ### Fixed
 - Fixed custom enchantments not working for Bedrock Edition at all. This is because Bedrock Edition controls enchantments client-side and not server-side which means Geyser has no way to send custom enchantments to Bedrock Edition clients, however there is a nifty little plugin which works around this (survival)
