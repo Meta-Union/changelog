@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-11-04
+### Changed
+- 1 Elite Coin is now worth 30,000 vanilla experience instead of 10,000 vanilla experience (survival)
+### Fixed
+- The cooldown for picking your mode was not displayed in chat anymore. That's now fixed (survival)
+
 ## 2025-11-02
 ### Changed
 - Regular players now earn 450 MetaCoins every 6 minutes and builders earn 900 MetaCoins every 6 minutes. This was mainly done as builds can be done within 2 hours and we wanted to allow people to more easily claim more plots (creative)
