@@ -5,7 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## 2025-11-09
 ### Changed
-- `/baltop` no longer shows non-players, like towns so the leaderboard is no longer filled with towns. `/balrank` also takes this into account (survival)
+- `/baltop` no longer shows non-players like towns so the leaderboard is no longer filled with towns. `/balrank` also takes this into account (survival)
+### Fixed
+- Voice Chat mod was no longer working as I accidentally removed a port forwarding that was required. I simply forgot it was necessary for voice chat mod to function and thus removed it. Sorry for any inconvenience! (all servers)
 
 ## 2025-11-06
 ### Changed
