@@ -4,6 +4,8 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
 ## 2025-11-09
+### Removed
+- Speed Mine mana ability was disabled as announced previously since it's been replaced by the higher levels of Efficiency enchantments (survival)
 ### Changed
 - `/baltop` no longer shows non-players like towns so the leaderboard is no longer filled with towns. `/balrank` also takes this into account (survival)
 ### Fixed
