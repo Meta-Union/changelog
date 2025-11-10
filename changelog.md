@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-11-10
 ### Changed
 - Elytra gliding will now be disabled when you're combat tagged so you can no longer fly away to avoid most risk from PvP (survival)
+- What used to be called Statistics in the '/menu' is now called Leaderboards and has been reworked a little bit. Some parts didn't work, some parts were a little inconsistent in my eyes (survival)
 
 ## 2025-11-09
 ### Removed
