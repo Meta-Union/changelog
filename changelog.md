@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-11-17
 ### Changed
 - Mob damage used to give 3 XP/damage for the Defense skill. This has been increased to 5.5 XP/damage so people have less incentive to get punched by an alt account or another player and it's also viable to just use a mob (survival)
+- The roof bedrock in the nether can now be mined as it turns into deepslate when you interact with it. This was done as access to the nether roof is something Mojang has said is a feature and thus I don't see the point in it being only accessible through what feels like glitches (survival)
 
 ## 2025-11-10
 ### Changed
