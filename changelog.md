@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-11-19
+### Changed
+- You can now buy 2 Ancient Debris instead of 2 Netherite Scraps for 1 Elite Coin in the server shop. This was done as people also want Ancient Debris to build with and because 1 Ancient Debris can be smelted into 1 Netherite Scrap (survival)
+
 ## 2025-11-17
 ### Changed
 - Mob damage used to give 3 XP/damage for the Defense skill. This has been increased to 5.5 XP/damage so people have less incentive to get punched by an alt account or another player and it's also viable to just use a mob (survival)
