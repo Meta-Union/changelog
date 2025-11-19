@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-11-19
 ### Changed
 - You can now buy 2 Ancient Debris instead of 2 Netherite Scraps for 1 Elite Coin in the server shop. This was done as people also want Ancient Debris to build with and because 1 Ancient Debris can be smelted into 1 Netherite Scrap (survival)
+### Added
 - Added 32 Nether Quartz Ore for 4 Elite Coins to the server shop. These prices will be expensive as I want to encourage people to either go out of their way for the resources **or** trade with other players (survival)
 - Added 64 Ice for 1 Elite Coin to the server shop (survival)
 
