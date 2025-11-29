@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-11-30
+### Changed
+- Axe Master now grants the same amount of extra damage as Sword Master so Axes stay stronger than Swords like it is in vanilla (survival)
+
 ## 2025-11-29
 ### Changed
 - Custom Enchanted Books now cost experience points instead of levels. Previously if you were level 100 and bought Poseidon for 25 levels, you would end up with 75 levels, now however you'll end up with 98 levels as going from level 0 to 25 only requires 910 experience points but going from level 99 to level 100 requires 733. This was done so it's not punishing to have more levels than a custom enchantment required (survival)
