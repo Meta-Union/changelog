@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-11-29
 ### Changed
 - Custom Enchanted Books now cost experience points instead of levels. Previously if you were level 100 and bought Poseidon for 25 levels, you would end up with 75 levels, now however you'll end up with 98 levels as going from level 0 to 25 only requires 910 experience points but going from level 99 to level 100 requires 733. This was done so it's not punishing to have more levels than a custom enchantment required (survival)
+### Added
+- Exiled town rank was added. Once given to a resident, they won't be able to interact with anything inside the town so it's meant as a punishment for that resident. Just make sure said resident can't remove the rank on their own or it'll be useless (survival)
 
 ## 2025-11-28
 ### Added
