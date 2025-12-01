@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-12-01
 ### Changed
 - Elites now have less health than previously as testing has shown that 9 people currently were barely able to kill a level 8 Elite and that seemed a little excessive (survival)
+- Elites should no longer burn from either the sunlight or for any other reason like fire aspect (survival)
 
 ## 2025-11-30
 ### Changed
