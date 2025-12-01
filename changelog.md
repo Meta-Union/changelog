@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - Elites now have less health than previously as testing has shown that 9 people currently were barely able to kill a level 8 Elite and that seemed a little excessive (survival)
 - Elites should no longer burn from either the sunlight or for any other reason like fire aspect (survival)
+### Fixed
+- Some Bedrock Edition users crashed in the lobby which was due to being teleported as they spawned so that's been disabled. We don't quite know what caused it but we do know that turning off the teleportation has fixed it. This also means you might have a little trouble getting out of portals in which case you should be able to use the compass (lobby)
 
 ## 2025-11-30
 ### Changed
