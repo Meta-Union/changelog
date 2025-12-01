@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-12-01
+### Changed
+- Elites now have less health than previously as testing has shown that 9 people currently were barely able to kill a level 8 Elite and that seemed a little excessive (survival)
+
 ## 2025-11-30
 ### Changed
 - Axe Master now grants the same amount of extra damage as Sword Master so Axes stay stronger than Swords like it is in vanilla (survival)
