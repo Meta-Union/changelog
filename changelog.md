@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - You'll be sent to the Patpack spawn once to make sure everyone is in that spawn by default, afterwards you can move freely and your location will be saved (lobby)
 - Using `/spawn` will now send you to the Patpack spawn (lobby)
 - Using `/spawnmenu` will now open the spawn menu (lobby)
+- Town Names, Nation Names and Plot Groups are now limited to 20 characters. Previously it was only 15 characters (survival)
 
 ## 2025-12-01
 ### Changed
