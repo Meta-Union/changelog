@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-12-05
+### Changed
+- You'll be sent to the Patpack spawn once to make sure everyone is in that spawn by default, afterwards you can move freely and your location will be saved (lobby)
+- Using `/spawn` will now send you to the Patpack spawn (lobby)
+- Using `/spawnmenu` will now open the spawn menu (lobby)
+
 ## 2025-12-01
 ### Changed
 - Elites now have less health than previously as testing has shown that 9 people currently were barely able to kill a level 8 Elite and that seemed a little excessive (survival)
