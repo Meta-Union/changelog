@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-12-09
 ### Added
 - Meta-Union now supports Bedrock Edition 1.21.130 (proxy)
+- Armor Unbreaking 12 has been added to the Server Shop (survival)
+### Changed
+- Elytra Unbreaking now goes 12, 25, 50 instead of 12, 24, 48 as the roman numbers were hard to read (survival)
+- Elytra Unbreaking is now actually called Elytra Unbreaking (survival)
 
 ## 2025-12-05
 ### Changed
