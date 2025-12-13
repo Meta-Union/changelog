@@ -4,6 +4,8 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
 ## 2025-12-13
+### Added
+- Loot Tokens were added. They currently serve no purpose but hopefully will do so in the future. You can find them within the '/menu' -> Server Shop -> Token Storage or by simply using '/token'. More types of tokens might come in the future, for now this is just a new system I'll be playing around with but it could turn into a new way to have different virtual currencies (survival)
 ### Changed
 - Custom Fishing Rods now only have one line of lore which reads something like "Durability: +10" which means the fishing rod has an extra 10 points of durability ot its default 64. This was mainly done as "Quality" and "Durability" were the same technically but it confused people so hopefully this new way of having the lore written will help people understand it more easily (survival)
 - Custom Fishing Rods can now range between 65 and 128 durability, so they can go up to twice the durability. Previously they ranged from 65 to 89 (survival)
