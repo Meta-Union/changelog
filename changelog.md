@@ -3,6 +3,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-12-13
+### Changed
+- Custom Fishing Rods now only have one line of lore which reads something like "Durability: +10" which means the fishing rod has an extra 10 points of durability ot its default 64. This was mainly done as "Quality" and "Durability" were the same technically but it confused people so hopefully this new way of having the lore written will help people understand it more easily (survival)
+- Custom Fishing Rods can now range between 65 and 128 durability, so they can go up to twice the durability. Previously they ranged from 65 to 89 (survival)
+### Removed
+- The Encrusted Anchor no longer has a quality as people get confused too often if it has any meaning which it doesn't (survival)
+
 ## 2025-12-09
 ### Added
 - Meta-Union now supports Bedrock Edition 1.21.130 (proxy)
