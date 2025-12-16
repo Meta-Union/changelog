@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-12-16
+### Changed
+- Server now runs 1.21.11, also a few plugins have been removed or replaced with alternatives, see also https://github.com/Meta-Union/Meta-Union/issues/161 (lobby)
+
 ## 2025-12-13
 ### Added
 - Loot Tokens were added. They currently serve no purpose but hopefully will do so in the future. You can find them within the '/menu' -> Server Shop -> Token Storage or by simply using '/token'. More types of tokens might come in the future, for now this is just a new system I'll be playing around with but it could turn into a new way to have different virtual currencies (survival)
