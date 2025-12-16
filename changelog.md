@@ -6,10 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-12-16
 ### Changed
 - Server now runs 1.21.11, also a few plugins have been removed or replaced with alternatives, see also https://github.com/Meta-Union/Meta-Union/issues/161 (lobby)
+- The crate named "Diamond Pickaxe Crate 1" now costs 3 Diamonds and 4 MetaTokens (survival)
+- Unbreaking IV now costs 5 MetaTokens as the first enchantment to try out the MetaToken system with (survival)
 ### Removed
 - Loot Tokens were removed as there will be a different approach to all of this which is MetaTokens (survival)
 ### Added
 - MetaTokens can now be bought for 60 vanilla levels inside the Server Shop (survival)
+- You now have a chance to earn a MetaTokens from generating loot and if you do, people near you will also get one (survival)
 
 ## 2025-12-13
 ### Added
