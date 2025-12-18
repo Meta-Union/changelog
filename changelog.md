@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-12-18
 ### Added
 - You can now also generate MetaTokens from voting and just like with generating loot, it'll also reward nearby players if you get a MetaToken (survival)
+### Changed
+- NPCs which previously mirrored your skin now have default Minecraft skins as users with very unique skins were afraid that their skin was "stolen" while in reality it only showed for them (lobby, survival)
+- NPCs now hold more fancy weapons to show off custom skins a little more (lobby)
 
 ## 2025-12-16
 ### Changed
