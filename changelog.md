@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - You can now buy 1 MetaToken for 2,000 MetaCoins in the Server Shop (survival)
 ### Changed
 - Archery and Fighting now gain skill experience based on the damage dealt, not per death. This also means mob farms will grant **much less** experience than they previously did, at least on mob farms which damage the mob so you kill it more easily (survival)
+- All Simple Crates now cost their respective diamonds + 2 MetaTokens (survival)
+### Removed
+- Elite Coins can no longer be exchanged for vanilla experience so there's no way yet to turn Elite Coins into MetaTokens. There will be another way to do that soon enough (survival)
 
 ## 2025-12-18
 ### Added
