@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - There is now a new Towny rank called "build-in-town-plots". Residents with this rank will be able to build in plots which are owned by the town, meaning **not** in the ones that are owned by players (survival)
 ### Changed
 - The first row of custom enchantments now sells for MetaTokens instead of Vanilla Levels (survival)
+- Players can no longer gain the invisibility effect. Current invisibility effects won't be removed but if you get the invisibility effect in some way, it'll be removed. We've seen too much trouble due to invisibility because people think they can hide behind the mask of anonymity just to put people on edge and we do not want that (survival)
 
 ## 2025-12-19
 ### Added
