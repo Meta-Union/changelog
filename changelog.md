@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-12-20
 ### Added
 - There is now a new Towny rank called "build-in-town-plots". Residents with this rank will be able to build in plots which are owned by the town, meaning **not** in the ones that are owned by players (survival)
+### Changed
+- The first row of custom enchantments now sells for MetaTokens instead of Vanilla Levels (survival)
 
 ## 2025-12-19
 ### Added
