@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-12-27
+### Changed
+- Server now runs 1.21.11 (survival)
+### Removed
+- You no longer bounce in the water in the lobby as it got some people confused and stuck (lobby)
+### Added
+- When joining, you now get 1 potion that grants you 20 minutes of Dolphin's Grace to make up for the lost bouncy water (lobby)
+
 ## 2025-12-22
 ### Changed
 - All custom enchantments which used to cost Vanilla Levels now cost MetaTokens (survival)
