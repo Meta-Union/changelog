@@ -6,8 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-12-27
 ### Changed
 - Server now runs 1.21.11 (survival)
+- Crates, Resources and Custom Enchantments have gotten converted to MetaTokens even more (survival)
 ### Removed
 - You no longer bounce in the water in the lobby as it got some people confused and stuck (lobby)
+- You can no longer buy Elite Cookies for Levels as otherwise it would just be a worse sale and it would also be confusing. You could turn Levels into Elite Cookies which give Elite Coins which can be turned into MetaTokens but instead you could just turn Levels into MetaTokens to begin with (survival)
 ### Added
 - When joining, you now get 1 potion that grants you 20 minutes of Dolphin's Grace to make up for the lost bouncy water (lobby)
 
