@@ -13,6 +13,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - All Elite Gear is now sold for MetaTokens as well (survival)
 - You now can't toggle PvP for an hour after killing someone (survival)
 - Maximum damage on a PvP direct hit (like with a sword, an axe or any other weapon) is now limited to 20 damage so you can no longer be one hit killed (survival)
+### Fixed
+- Custom Unbreaking and Custom Looting can now be put onto spears which I forgot to add when the server was updated to 1.21.11 (survival)
 
 ## 2025-12-27
 ### Changed
