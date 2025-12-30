@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2025-12-30
+### Changed
+- Shulkers now have a roughly 2 in 3 chance of dropping a phantom membrane when killed. These membranes is not affected by the Looting enchantment (survival)
+
 ## 2025-12-29
 ### Changed
 - End Crystals and Respawn Anchors now have a 3 second item cooldown when used during combat (survival)
