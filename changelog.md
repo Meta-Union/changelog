@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-01-02
 ### Added
 - You can no longer mount horses, happy ghasts and any other mob that you could mount while it's leashed. This is mainly to prevent mobs from being stolen within towns but is not a guarantee! (survival)
+### Changed
+- Totem of Undying and Phantom Spawn Eggs now also cost MetaTokens (survival)
 
 ## 2025-12-30
 ### Changed
