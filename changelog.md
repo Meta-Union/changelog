@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-01-02
+### Added
+- You can no longer mount horses, happy ghasts and any other mob that you could mount while it's leashed. This is mainly to prevent mobs from being stolen within towns but is not a guarantee! (survival)
+
 ## 2025-12-30
 ### Changed
 - Shulkers now have a roughly 2 in 3 chance of dropping a phantom membrane when killed. These membranes is not affected by the Looting enchantment (survival)
