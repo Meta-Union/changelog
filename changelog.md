@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-01-03
+### Added
+- You can now use `/trade <user>` to trade with others. This only works if both players are standing in a town chunk however. You can trade items as well as MetaCoins (survival)
+
 ## 2026-01-02
 ### Added
 - You can no longer mount horses, happy ghasts and any other mob that you could mount while it's leashed. This is mainly to prevent mobs from being stolen within towns but is not a guarantee! (survival)
