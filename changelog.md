@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-01-04
 ### Changed
 - Towny Upkeep Rebalance, see details https://github.com/Meta-Union/Meta-Union/issues/165 (survival)
+- Enchantments in the Server Shop have basically been halved (survival)
 
 ## 2026-01-03
 ### Added
