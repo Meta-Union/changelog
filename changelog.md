@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-01-11
+### Removed
+- Merging was removed. The alternative now is to claim an outpost near the town you want to merge with and have the other town unclaim while you claim their previous land. This ensures that the town which will own the land afterwards will know about all the residents which own land and what levels of trust are given in what claim (survival)
+
 ## 2026-01-10
 ### Fixed
 - Players were not forced to show on the map when turning on PvP when that was meant to be the case. This is now fixed, so players **are** forced to show on the map when turning on PvP (survival)
