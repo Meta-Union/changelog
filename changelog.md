@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-01-11
 ### Removed
 - Merging was removed. The alternative now is to claim an outpost near the town you want to merge with and have the other town unclaim while you claim their previous land. This ensures that the town which will own the land afterwards will know about all the residents which own land and what levels of trust are given in what claim (survival)
+- You no longer earn claim chunks from actively playing. This will shortly be replaced by being able to buy extra claim chunks for personal money (survival)
 
 ## 2026-01-10
 ### Fixed
