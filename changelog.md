@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-01-16
+### Changed
+- You will now get a message telling you that you can't toggle PvP because you killed someone within an hour instead of it saying "Unknown or incomplete command", this makes it much clearer why you can't use the command (survival)
+
 ## 2026-01-13
 ### Changed
 - You and anyone within 32 blocks now earn 200 MetaCoins every time you generate loot. It used to be 1 MetaToken 10% of the time, so this is basically equal (survival)
