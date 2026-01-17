@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - Nations now only cost 1,000 MetaCoins to create. I have to make them accessible, now that towns keep paying more as they grow/expand and nations will eventually become the only way to keep towns combined if you still want to grow/expand (survival)
 - Nations can now be created by any town with any amount of residents, for the same reason as above (survival)
+- You can no longer rename player heads with `/ie rename`, so no more fake player heads should come into existence (survival)
 
 ## 2026-01-16
 ### Changed
