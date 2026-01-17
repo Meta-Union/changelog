@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-01-17
 ### Added
 - The `/rules` have gotten a new addition which explains in more detail how Meta-Union is run, what the expectations are and should be. Hopefully this will lead to less confusion in the future (all servers)
+### Changed
+- Nations now only cost 1,000 MetaCoins to create. I have to make them accessible, now that towns keep paying more as they grow/expand and nations will eventually become the only way to keep towns combined if you still want to grow/expand (survival)
+- Nations can now be created by any town with any amount of residents, for the same reason as above (survival)
 
 ## 2026-01-16
 ### Changed
