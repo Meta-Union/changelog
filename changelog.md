@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - PvP no longer grants 10% of the money of the person you killed, instead no money is exchanged anymore (survival)
 - You no longer earn 40 extra MetaCoins when having PvP turned on. All of these PvP related changes were made as according to feedback from the community, people don't really want to have PvP where you are kind of forced to steal money (survival)
+- Towny no longer uses the economy (survival)
+- Outposts now cost 25,000 MetaCoins from the person's balance who claims it (survival)
 
 ## 2026-01-17
 ### Added
