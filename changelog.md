@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-01-20
 ### Removed
 - You can no longer trade MetaTokens for MetaCoins in the server shop. If you still have any, please contact Folas1337 to get them replaced (survival)
+### Added
+- Bow Crate has been added for 5,000 MetaCoins (survival)
 
 ## 2026-01-19
 ### Changed
