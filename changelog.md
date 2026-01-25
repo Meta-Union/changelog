@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-01-25
 ### Changed
 - A new `/menu` has been added that should be more accessible especially for Bedrock Edition users (lobby)
+- You can no longer claim in the old plot world with the smaller plots as it's considered deprecated. The world will continue to be around, don't worry (creative)
 
 ## 2026-01-24
 ### Added
