@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-01-29
+### Fixed
+- Filled maps used to be stripped of their map ID, making them appear only as a map item instead of one with the actual map information rendered on it. This should no longer happen (creative)
+
 ## 2026-01-27
 ### Fixed
 - Previously when you used `/kill` with an argument like `/kill asdf` it would trigger the cooldown of 10 minutes. This wasn't meant to be the case and the cooldown should have only triggered when only using `/kill`. The latter is now the case, as intended (survival)
