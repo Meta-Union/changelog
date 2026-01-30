@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-01-30
+### Changed
+- Everyone now has the chance to earn Elite Cookies when another player is nearby. The Elite Cookie's level is determined by the amount of players nearby (survival)
+### Removed
+- You can no longer buy Elite Cookies for MetaCoins as it basically meant using MetaCoins to create MetaCoins (survival)
+
 ## 2026-01-29
 ### Fixed
 - Filled maps used to be stripped of their map ID, making them appear only as a map item instead of one with the actual map information rendered on it. This should no longer happen (creative)
