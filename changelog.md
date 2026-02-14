@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-02-14
+### Removed
+- Witches no longer spawn from Elite Cookies as they're too difficult to kill (survival)
+
 ## 2026-02-13
 ### Changed
 - Extra town claim chunks now cost "791 + \<current max claim chunks\>" so your first one would cost, 800, then 801, 802 and so on. This was mainly done as it turns out people don't want to constantly split their town just so they can continue to expand and I don't want to enforce it too much (survival)
