@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-02-17
+### Fixed
+- You weren't able to create more than 0 chest shops as parts of the configuration were reset due to a recent update. It's now back to 100 chest shops as previously (survival)
+
 ## 2026-02-14
 ### Removed
 - Witches no longer spawn from Elite Cookies as they're too difficult to kill (survival)
