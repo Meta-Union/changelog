@@ -4,6 +4,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
 ## 2026-02-17
+### Added
+- There's a new menu in the server shop in which you can turn Cookie Dough into Elite Cookies (survival)
+### Changed
+- You now earn Cookie Dough to make Elite Cookies out of instead of Elite Cookies directly as the different levels of Elite Cookies were too spammy for the inventory (survival)
 ### Fixed
 - You weren't able to create more than 0 chest shops as parts of the configuration were reset due to a recent update. It's now back to 100 chest shops as previously (survival)
 
