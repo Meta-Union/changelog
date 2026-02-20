@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-02-20
+### Changed
+- Personal Difficulties AKA Pick Mode now only lock you for 3 real life days rather than 7. This was mainly done as we realized Fighting and Archery do not benefit from the higher difficulties and this way you can switch more easily (survival)
+- There is now a hint that the Fighting and Archery skills do not benefit from Hard or Extreme Mode (survival)
+
 ## 2026-02-17
 ### Added
 - There's a new menu in the server shop in which you can turn Cookie Dough into Elite Cookies (survival)
