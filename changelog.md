@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## 2026-02-21
 ### Changed
+- Custom Unbreaking now goes up to Level 8, Level 6 used to be the maximum previously. This was done as it's been requested quite a few times (survival)
 - PvP is now turned **off** by default, it used to be **on** by default. This was mainly done as PvP is not a focus of the server as much anymore (survival)
 - Elytras work while combat tagged again as PvP is becoming less serious on the server (survival)
 
