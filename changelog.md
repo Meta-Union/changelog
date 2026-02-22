@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-02-22
+### Added
+- Bedrock Edition users can now use '/geyser advancements' to see their advancements (survival)
+- Bedrock Edition users can now use '/geyser offhand' to put any item in their offhand (survival)
+
 ## 2026-02-21
 ### Changed
 - Custom Unbreaking now goes up to Level 8, Level 6 used to be the maximum previously. This was done as it's been requested quite a few times (survival)
