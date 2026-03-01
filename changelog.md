@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Difficulty Modifiers menu is now inside of '/menu' (survival)
 ### Removed
 - "Pick Mode" menu has been removed from '/menu'. People will stay on their difficulty level (like Vanilla, Hard, Extreme) for the moment but once a replacement for the extra skill experience has been found, you'll be reset back to Vanilla difficulty (survival)
+### Changed
+- The following skills were adjusted: Agility, Archery, Fighting, Defense, Excavation, Fishing, Foraging and Mining. Their required skill experience points required to reach level 100 were roughly adjusted so that people that currently had the highest level in that skill would have reached level 100 if they did it again with the adjusted values. This was done so that you could actually achieve level 100 in skills in a realistic timeframe and also so that more PSMs can be added to make up for the Hard and Extreme modes which will be removed shortly (survival)
 
 ## 2026-02-24
 ### Added
