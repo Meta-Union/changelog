@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-02
 ### Added
 - 2 extra PSM quests to make up for the very soon to come removal of Hard and Extreme mode (survival)
+### Removed
+- Hard and Extreme difficulty were now technically removed, meaning the damage multipliers are no longer in place and no extra skill XP is granted anymore (survival)
 
 ## 2026-03-01
 ### Removed
