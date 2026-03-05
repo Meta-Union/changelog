@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-05
+### Removed
+- Challenges were removed from quests as their main reason to exist had to be ditched. That main reason being the leaderboards. Leaderboards turned out to be quite laggy which is why they were removed (survival)
+### Added
+- As a replacement for challenges I've added what we now call Endeavors. They're merely a check list for yourself of things you've done and its main purpose is to give you things to do when you're bored (survival)
+
 ## 2026-03-02
 ### Added
 - 2 extra PSM quests to make up for the very soon to come removal of Hard and Extreme mode (survival)
