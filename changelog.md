@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-09
 ### Changed
 - Instead of buying Elite Cookies you can now spawn Elites directly. Elite Cookies were only a relict of the past which did not really serve any purpose anymore and only added to the complexity, so they were taken out of the loop (survival)
+- Custom Enchanted Books are now technically written_books instead of enchanted_books as written_books can stack which makes inventory management with lots of them much easier (survival)
 
 ## 2026-03-07
 ### Changed
