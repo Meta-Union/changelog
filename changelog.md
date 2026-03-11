@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-11
+### Changed
+- Iron Golems no longer drop items on death. This was mainly done to make resources a little harder to obtain, more details can be found on Discord's announcement channel (survival)
+
 ## 2026-03-09
 ### Changed
 - Instead of buying Elite Cookies you can now spawn Elites directly. Elite Cookies were only a relict of the past which did not really serve any purpose anymore and only added to the complexity, so they were taken out of the loop (survival)
