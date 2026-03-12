@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-12
 ### Changed
 - Tridents now only drop 1/5th as often from fishing as they used to (survival)
+- Ender Chests can no longer be opened outside of town claims. So you'll have to plan ahead and you don't have an "easy exit" if you're in the end dimension and just throw all your items in an ender chest and then jump into the void (survival)
 
 ## 2026-03-11
 ### Changed
