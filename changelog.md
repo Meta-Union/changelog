@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Every other night if you try to sleep in a bed, it will say "Can't sleep tonight" which means the night is unskippable to make the game a little harder once again (survival)
 - Elites now have roughly twice the health to reduce the money they grant (survival)
 - Chance to gain Cookie Dough has been increased so people will have a little more to spend (survival)
+### Added
+- Temporary Skill Boosts can now be bought for 1 Cookie Dough. They grant +100% skill experience for one skill and last 30 minutes (survival)
 
 ## 2026-03-12
 ### Changed
