@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-13
 ### Changed
 - Every other night if you try to sleep in a bed, it will say "Can't sleep tonight" which means the night is unskippable to make the game a little harder once again (survival)
+- Elites now have roughly twice the health to reduce the money they grant (survival)
 
 ## 2026-03-12
 ### Changed
