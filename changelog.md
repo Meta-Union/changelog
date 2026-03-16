@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-16
+### Added
+- Vegan Pufferfish and Vegan Rabbit Meat can now be bought in the server shop to allow our vegan friends to have an alternative to killing animals (survival)
+
 ## 2026-03-15
 ### Changed
 - You are now kicked 10 minutes after being counted as AFK instead of 45 minutes as it was previously. This was mainly done to prevent excessive AFK farms (survival)
