@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-19
 ### Changed
 - You can no longer sleep through the night at all as the gamerule players_sleeping_percentage was set to 101. This is also still part of the hardcore experiment (survival)
+### Added
+- Foxes & Wolves crate has been added (survival)
+- Rabbit crate has been added (survival)
 
 ## 2026-03-16
 ### Added
