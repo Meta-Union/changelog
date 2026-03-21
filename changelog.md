@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-21
 ### Changed
 - Most purchases in the server shop now have a 500 ms delay to accomodate for a glitch that would lead to items being given out twice when the server lags (survival)
+### Added
+- Hardmode Package S has been added to '/menu' which make your life harder but also give you extra skill experience. These might still go through quite some changes before we will move on to Hardmode Package M (survival)
 
 ## 2026-03-19
 ### Changed
