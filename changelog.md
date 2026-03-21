@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-21
+### Changed
+- Most purchases in the server shop now have a 500 ms delay to accomodate for a glitch that would lead to items being given out twice when the server lags (survival)
+
 ## 2026-03-19
 ### Changed
 - You can no longer sleep through the night at all as the gamerule players_sleeping_percentage was set to 101. This is also still part of the hardcore experiment (survival)
