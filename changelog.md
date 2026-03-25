@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-25
+### Changed
+- Elytra Unbreaking can now be bought for 4, 8 and 16 Elytras respectively. This was mainly done to reduce supply of Elytras and reward players who have been grinding a lot of Elytras (survival)
+### Added
+- You can now turn Dragon Heads into regular Elytras (survival)
+### Removed
+- You can no longer turn Dragon Heads into Elytras through a crate directly. You can however do it indirectly by first turning Dragon Heads into regular Elytras to then buy the crate (survival)
+
 ## 2026-03-23
 ### Changed
 - The steed speed effect is now handled differently internally as it was causing minor errors in the console the way it was done previously (survival)
