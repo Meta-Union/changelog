@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-27
+### Added
+- Hardmode M has been added which gives more skill boost but is also much harder, as you'd expect (survival)
+
 ## 2026-03-25
 ### Changed
 - Elytra Unbreaking can now be bought for 4, 8 and 16 Elytras respectively. This was mainly done to reduce supply of Elytras and reward players who have been grinding a lot of Elytras (survival)
