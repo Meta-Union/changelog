@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-03-28
+### Added
+- Global Skill Boosts (GSBs) added to '/menu' -> Server Shop. These currently cost 20 Magic Group Dust and will then boost one skill for the entire server for 7 days (survival)
+
 ## 2026-03-27
 ### Added
 - Hardmode M has been added which gives more skill boost but is also much harder, as you'd expect (survival)
