@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-03-30
 ### Changed
 - Golden Apples and Enchanted Golden Apples no longer have a cooldown to use. This was previously done to make them less overpowered cause PvP was very serious. Since that's not the case anymore, removing the cooldown only made sense and is more in line with vanilla behavior (survival)
+- Hardmode M no longer removes jumping but instead gives you hunger when you jump (survival)
 
 ## 2026-03-29
 ### Fixed
