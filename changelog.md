@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-02
 ### Changed
 - Corals not drying up is now working differently internally but it has the same effect, so the end user will see the same result as before as if nothing has changed (creative)
+- Certain entities which you can't spawn are now handles differently internally but just like with the corals, the end result should be the same as before (creative)
 
 ## 2026-04-01
 ### Added
