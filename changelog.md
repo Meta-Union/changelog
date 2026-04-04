@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-04-04
+### Changed
+- Hardmode S now gives the hunger II effect, Harmode M gives the hunger III effect instead of hunger I as mentioned before. Meaning your Hardmode decides on how high the hunger level is that you get permanently (survival)
+
 ## 2026-04-03
 ### Changed
 - You now get a permanent hunger I effect at all times, mainly to see how that affects the dynamic of the server, the community and perhaps opening up the possibility for custom foods (survival)
