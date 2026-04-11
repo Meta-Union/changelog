@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-04-11
+### Changed
+- Iron Golem kills no longer say that not dropping iron ingots is experimental (survival)
+- Trying to open an ender chest outside of a town no longer says that it's experimental (survival)
+
 ## 2026-04-08
 ### Removed
 - Permanent hunger I effect was removed as the disadvantages outweighed the advantages (survival)
