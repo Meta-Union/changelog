@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-13
 ### Added
 - '/custombows' was added where you can buy bows which you normally get from crates. This will soon be added to '/menu' -> Server Shop properly (survival)
+### Removed
+- The bow crate was removed as it's being replaced by direct purchases (survival)
 
 ## 2026-04-11
 ### Changed
