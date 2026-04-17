@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-17
 ### Added
 - You can now buy custom diamond swords from the server shop (survival)
+- Some enchantments now require items on top of the MetaCoins to purchase. This will hopefully increase their demand which creates new markets for these items and that leads to more trading among players... hopefully (survival)
 ### Removed
 - Fancy Diamond Sword crates were removed as you can now buy them directly in the server shop (survival)
 - You can buy even less resources for MetaCoins from the server shop which hopefully promotes people to trade among people instead (survival)
