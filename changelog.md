@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-20
 ### Changed
 - More crates were turned into purchases in the past few days, a big thanks also to Hujitoo who helped a lot with that process <3 (survival)
+### Removed
+- Crates were disabled as most were turned into purchases. I am aware a few are still missing but rest assured that they'll be added soon enough (survival)
 
 ## 2026-04-17
 ### Added
