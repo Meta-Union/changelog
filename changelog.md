@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-25
 ### Added
 - All the other custom elytras were added to the server shop, especially for all you collector people :P (survival)
+- Even more plushies in `/plushy3` (survival)
 
 ## 2026-04-22
 ### Added
