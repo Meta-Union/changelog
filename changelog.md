@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-27
 ### Added
 - Custom Food was added to the Server Shop. For now it's only Pretzels but depending on how well they sell, there could be more custom food in the future! They've got slightly better stats than golden carrots (survival)
+- Quest that lets you obtain reinforced deepslate was added. It requires you to mine 25,600 deepslate (survival)
 
 ## 2026-04-26
 ### Added
