@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-04-28
 ### Changed
 - Quest for reinforced deepslate now requires mining 12,800 deepslate and 12,800 end stone to give the end dimension a little more meaning (survival)
+### Added
+- Quest that lets you obtain more than 1 dragon egg was added. It requires you to kill 50 ender dragons (survival)
 
 ## 2026-04-27
 ### Added
