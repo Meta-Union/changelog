@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-01
 ### Changed
 - You're now counted as AFK after 5 minutes instead of 1 minute since hunger is no longer as big of a problem and only affects hardmode players which I hope will be a little more cautious (survival)
+### Removed
+- Being near other players no longer grants extra money of the salary. Magic Group Dust however persists of course (survival)
 
 ## 2026-04-28
 ### Changed
