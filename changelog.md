@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-01
+### Changed
+- You're now counted as AFK after 5 minutes instead of 1 minute since hunger is no longer as big of a problem and only affects hardmode players which I hope will be a little more cautious (survival)
+
 ## 2026-04-28
 ### Changed
 - Quest for reinforced deepslate now requires mining 12,800 deepslate and 12,800 end stone to give the end dimension a little more meaning (survival)
