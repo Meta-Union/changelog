@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - You're now counted as AFK after 5 minutes instead of 1 minute since hunger is no longer as big of a problem and only affects hardmode players which I hope will be a little more cautious (survival)
 ### Removed
 - Being near other players no longer grants extra money of the salary. Magic Group Dust however persists of course (survival)
+### Added
+- There is now a so called Nation Salary which depends on how many players are online in your nation. Currently it's set to 10 extra MetaCoins per online player of the nation but this could be subject to change (survival)
 
 ## 2026-04-28
 ### Changed
