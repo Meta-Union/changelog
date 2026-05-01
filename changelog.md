@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - There is now a so called Nation Salary which depends on how many players are online in your nation. Currently it's set to 10 extra MetaCoins per online player of the nation but this could be subject to change (survival)
 - New quest, requiring you to mine 4,096 clay and it rewards you with 1 Earth Painting (survival)
+- All 4 special paintings (Earth, Fire, Water, Air) now have a quest. Just make sure you know where you want to place them because if you break them, they will drop a regular painting (survival)
 
 ## 2026-04-28
 ### Changed
