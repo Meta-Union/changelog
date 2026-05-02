@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-02
 ### Fixed
 - I accidentally forgot to make plushies you buy through purchases not edible, a common mistake I've made several times with poisonous potatoes in the past but it seems I don't learn from my mistakes :D This is now fixed however, so you can no longer eat new plushies you buy (survival)
+### Added
+- You can now buy 5 different Special Coins in the resources server shop. They're only there for flexing and perhaps looking back at it in a year or two as there's lore with a date attached. They cost a stack of blocks of copper, gold, iron, diamond or netherite respectively. I am aware that some of these might never be bought but that's kind of the point (survival)
 
 ## 2026-05-01
 ### Changed
