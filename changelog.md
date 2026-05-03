@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-03
 ### Changed
 - The trading plugin was replaced with one that'll be compatible with 26.1 (survival)
+- The auto restart plugin was replaced with one that is compatible with 26.1 (lobby, survival)
 
 ## 2026-05-02
 ### Fixed
