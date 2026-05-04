@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-04
+### Changed
+- Voting now increases your salary for 3 days, up to twice the regular salary. Voting no longer gives instant money or even lucky money. Meaning if you vote on all 6 pages, you earn 900 MetaCoins as a regular user instead of 450 MetaCoins every 6 minutes. This effect lasts for 3 days, starting with when you vote, so you will have to vote again to refresh the effect and make the most of it (creative)
+
 ## 2026-05-03
 ### Changed
 - The trading plugin was replaced with one that'll be compatible with 26.1 (survival)
