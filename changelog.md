@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Voting now has a 10% again to reward you with 4,500 MetaCoins on top of increasing your salary for 3 days (creative)
 ### Changed
 - Voting now works on survival just like it does on creative, meaning if you voting on all 6 pages doubles your Base Salary. Nation Salary was unchanged however. Lucky votes are also on survival but they reward 1,000 MetaCoins instead of 4,500 MetaCoins (survival)
+- You can now buy PWs instead of earn them through voting (creative)
 
 ## 2026-05-04
 ### Changed
