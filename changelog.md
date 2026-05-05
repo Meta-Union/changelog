@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - Voting now works on survival just like it does on creative, meaning if you voting on all 6 pages doubles your Base Salary. Nation Salary was unchanged however. Lucky votes are also on survival but they reward 1,000 MetaCoins instead of 4,500 MetaCoins (survival)
 - You can now buy PWs instead of earn them through voting (creative)
+### Removed
+- Salary Quests have been removed in favor of the new vote system which affects the salary (survival)
 
 ## 2026-05-04
 ### Changed
