@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - You can now only trade with people which are within 10 blocks of you (survival)
 - You can no longer sell to or buy from the auction house so it can eventually be removed... assuming people don't freak out over this (survival)
+### Added
+- Allowance 4 was added to the rules, stating that it's okay to steal from graves in survival without having to expect any consequences from the staff team (survival)
 
 ## 2026-05-05
 ### Added
