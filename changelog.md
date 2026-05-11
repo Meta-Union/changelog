@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-11
+### Changed
+- Zombified Piglins no longer drop any golden items such as but not limited to golden swords, gold ingots or gold nuggets. This is to make gold rarer and is basically in line with iron golems (survival)
+
 ## 2026-05-10
 ### Changed
 - Graves can now be opened only by the owner of the grave. This should help make PvP even less toxic and also prevent accidentally stealing XP (survival)
