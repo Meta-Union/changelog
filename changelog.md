@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-12
 ### Added
 - Bedrock Edition should now see some of the custom items. Some are still missing like fishing rods but some simply don't work, so if an item doesn't show up for you, it's probably cause it just doesn't work or we haven't done it yet. We'll try to add more in the future but no promises all of them will ever work, this is entirely up to GeyserMC (survival)
+### Changed
+- Spawn position was moved slightly so it's now right next to the donation room and the NPC now only gives a very quick introduction how to get started to get newbies on their way (survival)
 
 ## 2026-05-11
 ### Changed
