@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-12
+### Added
+- Bedrock Edition should now see some of the custom items. Some are still missing like fishing rods but some simply don't work, so if an item doesn't show up for you, it's probably cause it just doesn't work or we haven't done it yet. We'll try to add more in the future but no promises all of them will ever work, this is entirely up to GeyserMC (survival)
+
 ## 2026-05-11
 ### Changed
 - Zombified Piglins no longer drop any golden items such as but not limited to golden swords, gold ingots or gold nuggets. This is to make gold rarer and is basically in line with iron golems (survival)
