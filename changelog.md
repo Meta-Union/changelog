@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Villager Optimization works differently now. You should no longer have to rename villagers to "Optimize" to optimize them but the game will instead try to detect if the villager has space to walk more than 1 block and if not, turn off their AI (survival)
 - You are no longer forced to be shown on the map or locator bar when you have PvP on (survival)
 - You are no longer forced to have PvP turned on for an hour after you killed someone (survival)
+### Removed
+- Trading with villagers and wandering traders has been disabled entirely. This is mainly for performance reasons which have led to me adding plugins in the past to optimize villagers but these plugins now came to bite me as one has been abandoned and apparently its villagers just turn into ones which never restock, making them almost useless and this is going to happen over and over again. I don't want that and thus decided to finally remove villager trading (survival)
 
 ## 2026-05-12
 ### Added
