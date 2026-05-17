@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Added `/mgc` as a command which shows how many Magic Group Coins you have. Magic Group Coins will be the replacement for Magic Group Dust (survival)
 ### Changed
 - Server Shop for Global Skill Boosts as well as Elites now require Magic Group Coins instead of Magic Group Dust which should hopefully, finally mean we have a final currency for group activity 🤞 (survival)
+- Voting now gives a 28 hour bonus and not 3 days anymore. We want people to vote daily, not only every 3 days, I'm afraid this is necessary to achieve that (survival, creative)
 ### Fixed
 - Axiom should be working again, some recent changes of the Velociy proxies have led to it no longer working properly (creative)
 
