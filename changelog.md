@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-17
+### Added
+- Added `/mgc` as a command which shows how many Magic Group Coins you have. Magic Group Coins will be the replacement for Magic Group Dust (survival)
+
 ## 2026-05-14
 ### Changed
 - Villager Optimization works differently now. You should no longer have to rename villagers to "Optimize" to optimize them but the game will instead try to detect if the villager has space to walk more than 1 block and if not, turn off their AI (survival)
