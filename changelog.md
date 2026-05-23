@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-23
 ### Changed
 - You can once again use `/trade` over any distance as long as both players are inside a town (survival)
+- Spawning Elites was changed once again. You now buy cookies again which spawn Elites for you. This was done because it's quite tedious for Bedrock Edition and potentially also Java Edition to go to the menu, click the button and then go into fight and repeat over and over. It's much easier to just buy lots of cookies and then eat them without having to go to a menu each time (survival)
 
 ## 2026-05-20
 ### Added
