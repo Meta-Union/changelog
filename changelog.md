@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - You can once again use `/trade` over any distance as long as both players are inside a town (survival)
 - Spawning Elites was changed once again. You now buy cookies again which spawn Elites for you. This was done because it's quite tedious for Bedrock Edition and potentially also Java Edition to go to the menu, click the button and then go into fight and repeat over and over. It's much easier to just buy lots of cookies and then eat them without having to go to a menu each time (survival)
+- Nation Salary was replaced with a Newbie Bonus. The Newbie Bonus gives you 60 extra MetaCoins when you're near another player who has less than 24 hours of playtime. I am hoping for this to increase engagement with new players and a higher tendency to make them join your nation or even town (survival)
 
 ## 2026-05-20
 ### Added
