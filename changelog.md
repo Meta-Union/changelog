@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-24
 ### Changed
 - You are once again informed in local chat if nobody's nearby to hear you. This was once disabled for PvP concerns but that's no longer an issue (survival)
+### Removed
+- Extreme Mode quest removed as it no longer serves any purpose (survival)
 
 ## 2026-05-23
 ### Changed
