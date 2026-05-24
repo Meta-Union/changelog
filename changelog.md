@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - GSBs (Global Skill Boosts) have been bumped from a 50% bonus to an 80% bonus in skill experience (survival)
 ### Removed
 - Extreme Mode quest removed as it no longer serves any purpose (survival)
+- PSM quests were removed as they'll shortly be replaced with PSBs which is short for Player Skill Boost which function a lot more like Global Skill Boosts (survival)
 
 ## 2026-05-23
 ### Changed
