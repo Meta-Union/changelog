@@ -4,6 +4,8 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
 ## 2026-05-24
+### Added
+- We now have so called PSBs (Player Skill Boosts). These are temporary skill boosts for a single player, unlike Global Skill Boosts which affect the entire server. You can buy multiple and they all stack but they get very expensive very quickly and they also require you to have killed bosses after tier 1. The prices might still require some tweaking (survival)
 ### Changed
 - You are once again informed in local chat if nobody's nearby to hear you. This was once disabled for PvP concerns but that's no longer an issue (survival)
 - GSBs (Global Skill Boosts) have been bumped from a 50% bonus to an 80% bonus in skill experience (survival)
