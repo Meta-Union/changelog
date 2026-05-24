@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-24
 ### Changed
 - You are once again informed in local chat if nobody's nearby to hear you. This was once disabled for PvP concerns but that's no longer an issue (survival)
+- GSBs (Global Skill Boosts) have been bumped from a 50% bonus to an 80% bonus in skill experience (survival)
 ### Removed
 - Extreme Mode quest removed as it no longer serves any purpose (survival)
 
