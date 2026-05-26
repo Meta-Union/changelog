@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-26
+### Changed
+- Shulkers should no longer be able to duplicate, making shulker farms impossible. This was done in preparation for possible town claims in the end dimension in the future as well as to prevent more automatic farms before they're created and later shut down by me which would probably lead to more frustration than disabling them from the start (survival)
+
 ## 2026-05-24
 ### Added
 - We now have so called PSBs (Player Skill Boosts). These are temporary skill boosts for a single player, unlike Global Skill Boosts which affect the entire server. You can buy multiple and they all stack but they get very expensive very quickly and they also require you to have killed bosses after tier 1. The prices might still require some tweaking (survival)
