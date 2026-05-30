@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-05-28
+### Changed
+- Earning Magic Group Coins now sends a message in chat so you know when you've earned one (survival)
+
 ## 2026-05-26
 ### Changed
 - Shulkers should no longer be able to duplicate, making shulker farms impossible. This was done in preparation for possible town claims in the end dimension in the future as well as to prevent more automatic farms before they're created and later shut down by me which would probably lead to more frustration than disabling them from the start (survival)
