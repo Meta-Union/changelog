@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-28
 ### Changed
 - Earning Magic Group Coins now sends a message in chat so you know when you've earned one (survival)
+- Salary payment now makes a little guitar note block sound so you know when you've earned it. This was something people were wishing for, so I hope you enjoy <3 (survival)
 
 ## 2026-05-26
 ### Changed
