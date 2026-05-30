@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-05-30
 ### Added
 - Endeavors make a return. They'll be more like quests but for technical reasons I couldn't make them quests so they'll be endeavors which grant you unique items when fulfilling their requirements (survival)
+- You can now claim land in the end dimension **but** the outpost will have to be claimed by Folas1337 as it's technically too complicated to allow that. If you want an outpost in the end, reach out to Folas1337 and prepare to pay 1 million MetaCoins for it (survival)
 
 ## 2026-05-28
 ### Changed
