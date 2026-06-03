@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-03
+### Changed
+- MGCs now use an actual plugin as I found out scoreboards use usernames instead of UUIDs to store the data. Thus everyone's MGCs were reset again, I really, really hope this will be the last time! (survival)
+
 ## 2026-05-30
 ### Added
 - Endeavors make a return. They'll be more like quests but for technical reasons I couldn't make them quests so they'll be endeavors which grant you unique items when fulfilling their requirements (survival)
