@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - MGCs now use an actual plugin as I found out scoreboards use usernames instead of UUIDs to store the data. Thus everyone's MGCs were reset again, I really, really hope this will be the last time! (survival)
 - You now earn 1 MGC on every salary payment when you're near another player so it feels less random when it happens. This also means all prices in the server shop were adjusted accordingly (survival)
+- The quest to obtain another dragon egg has been changed so you only have to kill 5 dragons instead of 35. It felt a little unreasonable to ask for this many dragons for a single item (survival)
+### Removed
+- The quest which previously asked for 2 dragon kills and 20 shulker kills to get a dragon egg was removed as it feels redundant with the other way of obtaining a dragon egg now (survival)
 
 ## 2026-05-30
 ### Added
