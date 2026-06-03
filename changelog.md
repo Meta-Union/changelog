@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-06-03
 ### Changed
 - MGCs now use an actual plugin as I found out scoreboards use usernames instead of UUIDs to store the data. Thus everyone's MGCs were reset again, I really, really hope this will be the last time! (survival)
+- You now earn 1 MGC on every salary payment when you're near another player so it feels less random when it happens. This also means all prices in the server shop were adjusted accordingly (survival)
 
 ## 2026-05-30
 ### Added
