@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-05
+### Changed
+- If you get 60 levels or more, they'll now automatically convert into MetaCoins. This is also to prepare for the removal of the plugin which tries to remove "Too Expensive" but it's not really intuitive how it's done (survival)
+
 ## 2026-06-03
 ### Changed
 - MGCs now use an actual plugin as I found out scoreboards use usernames instead of UUIDs to store the data. Thus everyone's MGCs were reset again, I really, really hope this will be the last time! (survival)
