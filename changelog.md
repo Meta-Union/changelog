@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-06-06
 ### Removed
 - Elite Gear shop was removed as probably there will be custom enchantments in the future like higher Sharpness and higher Protection which would replace Elite Gear. Switching armor to higher enchantments could also open up the possibility for armor with custom skins but that remains to be seen... (survival)
+- Budding Amethysts can now be bought in the Resources Server Shop, it is expensive however (survival)
 
 ## 2026-06-05
 ### Changed
