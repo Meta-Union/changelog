@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-06-07
 ### Changed
 - A totem of undying now costs 200k MetaCoins and 1 dragon egg as opposed to previously where it cost 96k MetaCoins and 40 echo shards (survival)
+- Endeavors are now parts of the Quest menu to have less confusion between Quests, Endeavors and the Server Shop, hopefully (survival)
 
 ## 2026-06-06
 ### Removed
