@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-08
+### Added
+- Using `/discord link` on the server now tells you to first use `/hub` to link your accounts as you have to be in the lobby for it to work (survival, creative)
+
 ## 2026-06-07
 ### Changed
 - A totem of undying now costs 200k MetaCoins and 1 dragon egg as opposed to previously where it cost 96k MetaCoins and 40 echo shards (survival)
