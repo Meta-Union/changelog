@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-10
+### Removed
+- The ability to set up plots for sale has been removed. 1) Because there's technically no selling of plots anymore as the economy of Towny is disabled, so it's slightly misleading. 2) Because if you let residents claim plots, it entails more power than a mayor probably expects. Plots owned by residents allow the resident who owns them to trust other people, even ones outside the town and it also allows changing permissions of the plot. All of which can lead to behavior of the plots if it ever becomes unowned that the mayor might not be aware of. So from now on you're meant to be using `/plot trust` instead if you want to give someone permission (survival)
+
 ## 2026-06-08
 ### Added
 - Using `/discord link` on the server now tells you to first use `/hub` to link your accounts as you have to be in the lobby for it to work (survival, creative)
