@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## 2026-06-10
 ### Removed
+- Your vanilla levels are no longer set to 50 when you reach level 60 or above and turned into MetaCoins so you'll be able to reach way past level 100 or even 1000 based on your skill levels (survival)
+### Added
+- You now earn MetaCoins for every skill XP you earn. The formula is quite simple: `0.0003*xp*power+0.1` xp stands for how many xp you earned, power is all your skill levels combined. So in simpler terms: Try to level up all skills so you earn more money. This should also make newbies realize early on that levelling up skills makes money (survival)
+
+## 2026-06-10
+### Removed
 - The ability to set up plots for sale has been removed. 1) Because there's technically no selling of plots anymore as the economy of Towny is disabled, so it's slightly misleading. 2) Because if you let residents claim plots, it entails more power than a mayor probably expects. Plots owned by residents allow the resident who owns them to trust other people, even ones outside the town and it also allows changing permissions of the plot. All of which can lead to behavior of the plots if it ever becomes unowned that the mayor might not be aware of. So from now on you're meant to be using `/plot trust` instead if you want to give someone permission (survival)
 ### Changed
 - Residents are now actually removed from their town if they did not log on to the server for 100 days straight. This includes mayors and like the rules have said for a long time now, towns actually get deleted if the mayor of a town has not logged on for 100 days and there's no co-mayor to take the space (survival)
