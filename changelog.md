@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-06-17
 ### Changed
 - The XP Convert ability within the Enchanting skill was nerfed by about 80% so players would have much less excess vanilla levels. I mainly want to see the effects of this on people, it could be permanent or temporary depending on the outcome (survival)
+### Added
+- You can now trade MGCs with `/trade <user>`. This might lead to solo players trading with group players to also get their hands on MGCs (survival)
 
 ## 2026-06-15
 ### Removed
