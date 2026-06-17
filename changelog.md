@@ -3,7 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
-## 2026-06-10
+## 2026-06-17
+### Changed
+- The XP Convert ability within the Enchanting skill was nerfed by about 80% so players would have much less excess vanilla levels. I mainly want to see the effects of this on people, it could be permanent or temporary depending on the outcome (survival)
+
+## 2026-06-15
 ### Removed
 - Your vanilla levels are no longer set to 50 when you reach level 60 or above and turned into MetaCoins so you'll be able to reach way past level 100 or even 1000 based on your skill levels (survival)
 ### Added
