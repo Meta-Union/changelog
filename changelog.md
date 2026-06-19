@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-19
+### Changed
+- Global Skill Boosts now cost 20,000 MetaCoins each instead of Magic Group Coins like before (survival)
+- Player Skill Boosts now cost 1, 2, 4, 8 and 16 Magic Group Coins respectively instead of MetaCoins like before. This change and the previous one were made so that solo players either have to trade for MGCs or the most they can do is give a benefit to everyone. I am hoping that this leads to more Boosts being activated **or** people interacting more with each other to get what they are after (survival)
+
 ## 2026-06-17
 ### Changed
 - The XP Convert ability within the Enchanting skill was nerfed by about 80% so players would have much less excess vanilla levels. I mainly want to see the effects of this on people, it could be permanent or temporary depending on the outcome (survival)
