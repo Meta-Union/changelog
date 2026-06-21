@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-21
+### Changed
+- Higher vanilla enchantments no longer cost random items added on top but instead only MetaCoins again. I should either make them cost items **or** MetaCoins but not a mix of both (survival)
+
 ## 2026-06-19
 ### Changed
 - Global Skill Boosts now cost 20,000 MetaCoins each instead of Magic Group Coins like before (survival)
