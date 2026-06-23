@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-06-23
 ### Added
 - Stronger monsters should spawn in any dimension now, currently set to level 10. We will experiment for a while to see which level seems to work best (survival)
+- Players who join survival for the first time should now receive a full set of copper armor, a copper sword and a copper pickaxe as well as 32 bread. This is so newbies will have an easier time, especially against the harder mobs and it also takes some burden off veterans to supply the donation chest (survival)
 
 ## 2026-06-21
 ### Changed
