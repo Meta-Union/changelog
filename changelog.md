@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-06-24
 ### Added
 - Newbies now start with a shield and a pink bed as well. The pink bed was of course requested by Cakey... well actually I asked but that's besides the point! (survival)
+### Removed
+- You can no longer put Custom Unbreaking on armor as we found out it did not work on armor as it does on tools, sorry for any inconveniences this may have caused 😐 (survival)
 
 ## 2026-06-23
 ### Added
