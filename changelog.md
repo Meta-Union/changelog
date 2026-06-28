@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-06-28
+### Added
+- New Plot World with 501x501 blocks in size. Each plot costs 45,000 MetaCoins and you can get there by either using `/warp 501` or using the `/menu` button (creative)
+
 ## 2026-06-25
 ### Added
 - You can now buy Vanilla Enchanted books in the server shop. We're starting with Silk Touch and Sharpness 5 for a start and will see how high demand is and if the price of 5 MGC seems right (survival)
