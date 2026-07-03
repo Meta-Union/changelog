@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-02
 ### Added
 - Everyone can now open shulker boxes from their inventory without the need for a quest anymore (survival)
+- Everyone now has access to all skulls in the '/skulls' menu from the start, removing the need of a quest (survival)
 
 ## 2026-06-28
 ### Added
