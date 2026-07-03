@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-03
 ### Removed
 - Since there's no need for the quests mentioned yesterday, they have been removed as quests. We want to give people the best possible experience from the start with a minimum amount of gatekeeping (survival)
+### Changed
+- `/hardcore` now opens a little menu where you can choose how long you want to be banned for Hardcore and you can even disable it again afterwards. I don't want to be too punishing when it comes to people that want to play with Hardcore (survival)
 
 ## 2026-07-02
 ### Added
