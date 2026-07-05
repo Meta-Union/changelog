@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-07-05
+### Removed
+- Elytra Unbreaking 50 and Elytra Unbreaking 25 were removed as they did not really give a big benefit in terms of their value. Buying Unbreaking 12 twice or buying Unbreaking 25 almost ended up being the same price for the same value, so there's not much reason for them to exist (survival)
+
 ## 2026-07-03
 ### Removed
 - Since there's no need for the quests mentioned yesterday, they have been removed as quests. We want to give people the best possible experience from the start with a minimum amount of gatekeeping (survival)
