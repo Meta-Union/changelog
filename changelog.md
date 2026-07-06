@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-07-06
+### Changed
+- The invisibility effect has been enabled again. It was previously mainly disabled for PvP reasons and since that's not as big of a deal anymore, it's been re-enabled (survival)
+
 ## 2026-07-05
 ### Removed
 - Elytra Unbreaking 50 and Elytra Unbreaking 25 were removed as they did not really give a big benefit in terms of their value. Buying Unbreaking 12 twice or buying Unbreaking 25 almost ended up being the same price for the same value, so there's not much reason for them to exist (survival)
