@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-06
 ### Changed
 - The invisibility effect has been enabled again. It was previously mainly disabled for PvP reasons and since that's not as big of a deal anymore, it's been re-enabled (survival)
+- All villagers now lose their AI so they'll no longer walk around or even make a sound. Since villagers haven't had the ability to trade, keeping their AI enabled only uses up server resources which is quite unnecessary. They aren't removed because perhaps one day they'll make a return... (survival)
 
 ## 2026-07-05
 ### Removed
