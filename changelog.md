@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-08
 ### Added
 - Levelled Mobs World is now publicly available. You can teleport there through the World Related section in the `/menu` and get back the same way. Its main purpose is to give an extra challenge for people who want it and give people who want to grind fighting related skills a faster and more exciting way (survival)
+### Changed
+- Ender Chests can be opened in the entire overworld again. For other worlds, the rules remain unchanged (survival)
 
 ## 2026-07-06
 ### Changed
