@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-11
 ### Changed
 - All the buttons in `/vanillaenchanter` now use an item which remotely represents the enchantment you're buying (survival)
+### Added
+- There is now a 0.025% chance to get the Earth Painting when digging up clay as a replacement for the quest that was removed (survival)
+### Removed
+- The quest to obtain an Earth Painting has been removed as we want to move away further from quests (survival)
 
 ## 2026-07-08
 ### Added
