@@ -9,9 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - There is now a 0.025% chance to get the Earth Painting when digging up clay as a replacement for the quest that was removed (survival)
 - There is now a 0.4% chance to get the Fire Painting when killing Blazes as a replacement for the quest that was removed (survival)
+- There is now a 0.1% chance to get the Water Painting when fishing as a replacement for the quest that was removed (survival)
 ### Removed
 - The quest to obtain an Earth Painting has been removed as we want to move away further from quests (survival)
-- The quest to obtain an Fire Painting has been removed as we want to move away further from quests (survival)
+- The quest to obtain a Fire Painting has been removed as we want to move away further from quests (survival)
+- The quest to obtain a Water Painting has been removed as we want to move away further from quests (survival)
 
 ## 2026-07-08
 ### Added
