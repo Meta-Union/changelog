@@ -8,9 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Updated the server to 26.2. Creative is still pending due to a plugin which needs an update (survival, lobby)
 ### Added
 - There is now a 0.4% chance to get the Wind Painting when killing Breezes as a replacement for the quest that was removed (survival)
+- There is now a 20% chance to get a Dragon Egg from the Ender Dragon as a replacement for the quest that was removed (survival)
 ### Removed
 - The quest to obtain a Wind Painting has been removed as we want to move away further from quests (survival)
 - The now redundant plugin to remove villager AI was removed as all villagers now get their AI removed through another way (survival)
+- The quest to obtain a Dragon Egg has been removed as we want to move away further from quests (survival)
 
 ## 2026-07-11
 ### Changed
