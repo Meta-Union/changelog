@@ -4,10 +4,13 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
 ## 2026-07-12
+### Changed
+- Updated the server to 26.2. Creative is still pending due to a plugin which needs an update (survival, lobby)
 ### Added
 - There is now a 0.4% chance to get the Wind Painting when killing Breezes as a replacement for the quest that was removed (survival)
 ### Removed
 - The quest to obtain a Wind Painting has been removed as we want to move away further from quests (survival)
+- The now redundant plugin to remove villager AI was removed as all villagers now get their AI removed through another way (survival)
 
 ## 2026-07-11
 ### Changed
