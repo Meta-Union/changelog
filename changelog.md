@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - The quest to obtain reinforced deepslate was added back (survival)
 ### Changed
 - Small under the hood changes to how quests are shown in the menu. They're now called Endeavors and open with `/endeavors` (survival)
+### Fixed
+- `/map` was not working anymore. That's been fixed and it is now working again, with the same color coding as the other custom commands (survival, lobby, creative)
 
 ## 2026-07-13
 ### Added
