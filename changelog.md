@@ -3,10 +3,15 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-07-14
+### Added
+- The quest to obtain reinforced deepslate was added back (survival)
+### Changed
+- Small under the hood changes to how quests are shown in the menu. They're now called Endeavors and open with `/endeavors` (survival)
+
 ## 2026-07-13
 ### Added
 - There is now a `mayor-only` plot type which you can set by using `/plot set mayor-only` or `/plot group set mayor-only` to do the same for an entire plot group. This plot type makes it so only the mayor can build, destroy, switch or use items in that plot. Even if you trusted someone in your town, these plots stay protected from everyone except the mayor (survival)
-- The quest to obtain reinforced deepslate was added back (survival)
 
 ## 2026-07-12
 ### Changed
