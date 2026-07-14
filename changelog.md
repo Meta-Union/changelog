@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-13
 ### Added
 - There is now a `mayor-only` plot type which you can set by using `/plot set mayor-only` or `/plot group set mayor-only` to do the same for an entire plot group. This plot type makes it so only the mayor can build, destroy, switch or use items in that plot. Even if you trusted someone in your town, these plots stay protected from everyone except the mayor (survival)
+- The quest to obtain reinforced deepslate was added back (survival)
 
 ## 2026-07-12
 ### Changed
