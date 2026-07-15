@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - The other 3D sword "easter eggs" which the wandering trader talks about have been removed (survival)
 ### Changed
 - The gamerule `spawn_wandering_traders` was set to false as all Wandering Trader easter eggs will soon be turned into something else like Endeavors or Server Shop purchases (survival)
+- The Elemental Paintings (such as wind, fire, water and earth) have been turned into Endeavors (survival)
 
 ## 2026-07-14
 ### Added
