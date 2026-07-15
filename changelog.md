@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Removed
 - The 3D Golden Sword "easter egg" which the wandering trader talks about has been removed (survival)
 - The other 3D sword "easter eggs" which the wandering trader talks about have been removed (survival)
+### Changed
+- The gamerule `spawn_wandering_traders` was set to false as all Wandering Trader easter eggs will soon be turned into something else like Endeavors or Server Shop purchases (survival)
 
 ## 2026-07-14
 ### Added
