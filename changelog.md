@@ -6,8 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-07-15
 ### Added
 - Endeavor which lets you break 1,000 that rewards a 3D Golden Sword has been added (survival)
+- All other 3D swords were added as endeavors (survival)
 ### Removed
 - The 3D Golden Sword "easter egg" which the wandering trader talks about has been removed (survival)
+- The other 3D sword "easter eggs" which the wandering trader talks about have been removed (survival)
 
 ## 2026-07-14
 ### Added
