@@ -3,6 +3,14 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-07-17
+### Changed
+- Salary now increases from 100 MetaCoins up to 600 MetaCoins from voting (survival)
+- The message you get when Salary is paid was changed slightly to reflect the changes (survival)
+### Removed
+- Newbie Bonus was removed as not much difference was noticed by it existing (survival)
+- Lucky Vote, where you had a chance to earn 1,000 MetaCoins from a single vote, was removed as the increase in salary will kind of make it obsolete (survival)
+
 ## 2026-07-15
 ### Added
 - Endeavor which lets you break 1,000 that rewards a 3D Golden Sword has been added (survival)
