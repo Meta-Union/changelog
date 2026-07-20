@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 - `/map` showed the survival map on lobby and creative. It now shows the proper map URLs (lobby, creative)
 - Bedrock Edition should be able to use custom enchanted books again. No real changes were required to make it work other than updating Geyser (survival)
+### Removed
+- `/baltop` AKA `/money top` as well as `/balrank` AKA `/money rank` were removed as I don't want to create competition for the economy (survival)
 
 ## 2026-07-17
 ### Changed
