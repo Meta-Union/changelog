@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-08-08
+### Removed
+- You no longer earn MGC when being near other players as they'll soon be irrelevant due to skills being removed in Extreme Mode (survival)
+
 ## 2026-07-29
 ### Removed
 - When killing mobs, they no longer drop XP orbs *but of course you still earn XP through the conversion of skill XP to vanilla XP* (survival)
