@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-08-08
 ### Removed
 - You no longer earn MGC when being near other players as they'll soon be irrelevant due to skills being removed in Extreme Mode (survival)
+### Changed
+- Explosions no longer blow up blocks as another preparation for Extreme Mode and because most of the explosions heal up on their own anyway. Explosions do still deal damage to players and mobs however. (survival)
 
 ## 2026-07-29
 ### Removed
