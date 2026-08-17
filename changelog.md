@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-08-17
+### Removed
+- Armor stand editor plugin had to be removed as it had a critical issue which needs to be solved and until that's done, the plugin will remain removed (survival)
+### Changed
+- Players who join the server for the first time will be put into Extreme Mode (survival)
+
 ## 2026-08-16
 ### Removed
 - Endeavors were removed from `/menu` as preparation for Extreme Mode. The quests are technically still there to obtain the items if you do the work but they're no longer showing up in the menu (survival)
