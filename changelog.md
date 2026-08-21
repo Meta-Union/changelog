@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Endeavors are now actually removed entirely (survival)
 - Skills and Stats were removed from the menu but they remain active until Extreme Mode is finally rolled out on the entire server (survival)
 - The Server Shop was removed to prepare for Extreme Mode (survival)
+### Changed
+- New towns can no longer be created until we figure out how we want to handle that inside Extreme Mode (survival)
 
 ## 2026-08-17
 ### Removed
