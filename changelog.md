@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-08-21
 ### Removed
 - Endeavors are now actually removed entirely (survival)
+- Skills and Stats were removed from the menu but they remain active until Extreme Mode is finally rolled out on the entire server (survival)
 
 ## 2026-08-17
 ### Removed
