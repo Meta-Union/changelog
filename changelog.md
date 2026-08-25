@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-08-25
 ### Changed
 - New players now start with 0 MetaCoins instead of 5,000 as there is almost no use for it currently in Extreme Mode (survival)
+- Days now last 20 minutes and nights last 40 minutes (survival)
 
 ## 2026-08-23
 ### Changed
