@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-08-30
 ### Removed
 - You can no longer use `/grave tp` as a newbie as it seems to easy to progress while you have that ability (survival)
+### Changed
+- You now only get Hunger II from jumping and not any other action as the food situation seemed a little out of hand currently (survival)
 
 ## 2026-08-25
 ### Changed
