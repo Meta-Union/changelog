@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-08-30
+### Removed
+- You can no longer use `/grave tp` as a newbie as it seems to easy to progress while you have that ability (survival)
+
 ## 2026-08-25
 ### Changed
 - New players now start with 0 MetaCoins instead of 5,000 as there is almost no use for it currently in Extreme Mode (survival)
