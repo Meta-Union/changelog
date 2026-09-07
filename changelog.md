@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-09-07
 ### Changed
 - NPCs now have a fitting skin, based on the server. So survival is a Reaper and creative is a Builder (lobby)
+- The map art for survival has been updated to reflect the Extreme Mode changes (survival)
 
 ## 2026-09-05
 ### Added
