@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - The map art for survival has been updated to reflect the Extreme Mode changes (survival)
 ### Removed
 - Rotten Flesh can no longer be turned into Gunpowder as it seems quite useless currently (survival)
+### Added
+- 2 Rotten Flesh can now be turned into 1 Nether Wart Block which is not currently obtainable otherwise I believe, it is also a good source of bone meal as it can be composted quite well (85% chance to increase the composter level according to the Minecraft Wiki) or it can of course be used as decoration (survival)
 
 ## 2026-09-05
 ### Added
