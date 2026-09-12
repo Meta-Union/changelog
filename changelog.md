@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-09-12
 ### Removed
 - The Compass you were previously given when joining was removed as we already have several ways to join servers like the NPCs, the portals or the `/queue` command (lobby)
+### Added
+- We added a scoreboard where you can see how to navigate the lobby. It mentions the NPCs, the `/spawn` command as well as the `/menu` command currently (lobby)
 
 ## 2026-09-11
 ### Added
