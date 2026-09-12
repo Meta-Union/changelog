@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-09-12
+### Removed
+- The Compass you were previously given when joining was removed as we already have several ways to join servers like the NPCs, the portals or the `/queue` command (lobby)
+
 ## 2026-09-11
 ### Added
 - You now earn extra health if you've been alive for long enough. Currently the milestones are 30 minutes, 1 hour, 3 hours and 12 hours where you get 0.5 extra hearts for each milestone reached. That extra health is lost when you die (survival)
