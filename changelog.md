@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-09-18
+### Added
+- You can now craft a Silk Touch Iron Pickaxe from 3 iron ingots, 2 sticks, 8 ender pearls, 12 string and 4 blocks of gold (survival)
+
 ## 2026-09-13
 ### Added
 - You can now obtain 16 blackstone by crafting it from 1 obsidian (survival)
