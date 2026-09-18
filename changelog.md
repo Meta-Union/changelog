@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2026-09-18
 ### Added
 - You can now craft a Silk Touch Iron Pickaxe from 3 iron ingots, 2 sticks, 8 ender pearls, 12 string and 4 blocks of gold (survival)
+### Changed
+- The ability to lock chests is now put behind a so called "Acquire Ability" where it currently requires you to have played for 2 hours and you have to manually click the button. That also unlocks a button next to it which lets you open a book which explains how you lock chests in detail. This was mainly done to prevent newbies from creating locked chests right away and so you slowly learn what you can do (survival)
 
 ## 2026-09-13
 ### Added
