@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
 
+## 2026-09-26
+### Added
+- New ability which lets you get an extra heart for 1 month for 64 spider eyes (survival)
+
 ## 2026-09-24
 ### Added
 - There's now a button in the `/menu` which lets you see modifications near you, such as who broke what, who killed what or whom and who took items and so on (survival)
