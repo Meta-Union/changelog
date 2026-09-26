@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to the Meta-Union Minecraft Network will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Meta-Union/changelog/main&homepage=changelog.md&sidebar=true#/) unless you are already on Docsify-This, then you're already "here" :joy:
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://meta-union.com/changelog/) unless you are already on the Meta-Union website, then you're already "here" :joy:
 
 ## 2026-09-26
 ### Added
