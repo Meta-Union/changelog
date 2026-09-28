@@ -3,6 +3,11 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://meta-union.com/changelog/) unless you are already on the Meta-Union website, then you're already "here" :joy:
 
+## 2026-09-27
+### Added
+- There is now a scoreboard with some useful information like HP and PvP status and hours played (survival)
+- Added another ability to earn 0.5 extra hearts for 1 month. This currently costs 64 beetroot (survival)
+
 ## 2026-09-26
 ### Added
 - New ability which lets you get an extra heart for 1 month for 64 spider eyes (survival)
