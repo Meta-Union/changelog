@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Unbreaking shields now cost Blocks of Copper instead of Resin Clumps. Resin Clumps seem like quite the big task currently (survival)
 ### Added
 - Unbreaking Diamond Swords can now be crafted (survival)
+- Sharpness book has been added. It costs 1 Book, 8 Amethyst Crystals and 16 Blocks of Bamboo (survival)
 
 ## 2026-09-27
 ### Added
