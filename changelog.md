@@ -3,6 +3,12 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://meta-union.com/changelog/) unless you are already on the Meta-Union website, then you're already "here" :joy:
 
+## 2026-10-30
+### Removed
+- Herobrine Babies no longer spawn in the overworld (survival)
+### Added
+- You now get a short moment of Hunger if you mine blocks in pure darkness (survival)
+
 ## 2026-10-03
 ### Changed
 - Unbreaking shields now cost Blocks of Copper instead of Resin Clumps. Resin Clumps seem like quite the big task currently (survival)
