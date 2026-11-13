@@ -3,6 +3,10 @@ All notable changes to the Meta-Union Minecraft Network will be documented in th
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). You can find a prettier version of these changelogs [here](https://meta-union.com/changelog/) unless you are already on the Meta-Union website, then you're already "here" :joy:
 
+## 2026-11-13
+### Changed
+- Mobs spawning in lit up areas is now only in effect in the darkness world and no other worlds (survival)
+
 ## 2026-11-08
 ### Removed
 - The old way to prevent fire spread has been removed (survival)
